@@ -24,14 +24,14 @@ ${\color{red}Click\space on \space \color{lightBlue}the \space Figures \space \c
 
 ### [Organizations' co-authorship network](https://app.vosviewer.com/?json=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D15MsOE_raelF922wzbXF4VC61yVk0hTyb)
 
-*68 are selected with a minimum threshold of 10 documents.*
+*68 organizations are selected with a minimum threshold of 10 documents.*
 
 [![Organizations' Co-Authorship Network:](https://github.com/ya0-sun/OSMbib/blob/main/img/organization.png 'Organizations Co-Authorship Network')](https://app.vosviewer.com/?json=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D15MsOE_raelF922wzbXF4VC61yVk0hTyb)
 
 
 ### [Co-authorship network](https://app.vosviewer.com/?json=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1BZZPj4WQq477UoeBQhTDaV09ll5_daAl)
 
-*92 Authors are Selected with a Minimum Threshold of 5 Documents per Author.*
+*92 authors are selected with a minimum threshold of 5 documents per author.*
 
 [![Co-Authorship Network:](https://github.com/ya0-sun/OSMbib/blob/main/img/co-authorship.png 'Co-Authorship Network')](https://app.vosviewer.com/?json=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1BZZPj4WQq477UoeBQhTDaV09ll5_daAl)
 
