@@ -9,7 +9,7 @@ by Yao Sun, Liqiu Meng, Andres Camero, Stefan Auer, Xiao Xiang Zhu
 
 ## Interactive visualization 
 
-${\color{red}Click\space on \space \color{lightBlue}the \space Figures \space \color{lightgreen}to \space Explore \space Networks \space \color{orange}Interactively}$
+🠊 ${\color{red}Click\space on \space \color{lightBlue}the \space Figures \space \color{lightgreen}to \space Explore \space Networks \space \color{orange}Interactively}$
 
 
 ### [Network clusters of keywords](https://app.vosviewer.com/?json=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1EbZDFNeOB0pFYYCwtFcOSIrvx6kGutQO)
