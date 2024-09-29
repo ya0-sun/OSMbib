@@ -1,0 +1,41 @@
+Time,Title,Author
+10:00,Connecting the dots, Arun Ganesh
+10:30,OSM in Aizuwakamatsu city_ Construction of a hazard map,Jun Meguro
+10:30,Mobile app development with routing and voice navigation,Taro Matsuzawa
+11:00,How to build up an OSM Community,Anisa Kuci
+11:30,Mapping with a time dimension,Daan van Ramshrost
+12:00,New opportunities for understanding the ancient coastline,Georgia Marina Andreou
+2:10,A navigable OSM map of Canada? Sooner than you think!,Frederic Julien;Brian Lau;Martijn van Exel
+2:10,Challenges in geonames and address extraction,Stefan Keller
+2:40,High precision mapping with streetlevel imagery,Oindrila Gupta
+2:40,One road goes a long way_ measuring the impact of maps on fighting FGM in Tanzania,Egle Marija Ramanauskaite
+3:10,Jungle Bus_ Public transport networks mapping made easy,Florian Lainez
+3:10,Totsukawa_ After the heavy rainfall disaster,Yuichiro Nishimura
+4:10,Validating OpenStreetMap,Arun Ganesh
+4:10,Before maturity comes puberty,Ilya Zverev
+4:40,OSM history analysis using big data technology,Martin Raifer
+4:40,The diagrams of OpenStreetMap,Harry Wood
+5:10,Analyzing positional accuracy of pois using spatial association rule learning,Alireza Kashian
+5:10,Challenges of open data in Japanese public transport,Masaki Ito
+9:30,Taking on responsibility for OSM data,Daniel Kastl
+9:30,Senegal_ Extending the use of of OpenStreetMap,Mohamet Lamine NDIAYE
+10:00,MapRoulette_ One million corrections and beyond,Martijn van Exel
+10:00,The Sri Lankan government and OSM,S Suthakaran
+10:30,AI-assisted road tracing for OpenStreetMap,Drishtie Patel;Ming Gao
+10:30,Vehicle position visualization project in heavy snow zone,西本浩幸
+11:30,Open source street addresses,Doug Rinckes
+11:30,OSM Bangladesh_ Bringing scattered OSM activities under single platform,Ahasanul Hoque
+12:00,Hackers Against Natural Disasters,Gael Musquet;Loïc Ortola
+12:00,Solving challenges using street level imagery in India,Shravan Shah
+12:30,MapCampaign_ Manage large mapping projects while leveraging local knowledge,Paul Uithol
+12:30,Pic4Carto_ precise remote mapping with open street-level pictures,Adrien Pavie
+2:00,京都と東京の月間マッピングパーティー,Yasunari Yamashita
+2:00,Mapping efforts in an unsurveyed land_ Koorachundu village panchayat experience,Jaisen Nedumpala
+2:30,日本の美術館・博物館_図書館フロアガイドにみる空間属性記述の使用傾向––語句のゆらぎとピクトグラムのランキング,阿児雄之
+2:30,Ask the audience - live polling,Rob Nickerson
+3:00,OpenStreetMapデータを用いた触地図自動作成システムの開発 ―縮尺に応じた表示内容変更機能の実装―,馬場　千晴
+3:00,OSM seen from a GIS researcher_ experiences and perspectives,Marco Minghini
+4:00,Telemetry_ global traffic and OSM,Lily Chai
+4:00,Effort of contribution of OSM Niger,Samaila Alio Mainassara
+4:30,OpenStreetMap Carto,Paul Norman
+4:30,State of the CrisisMapping in Japan,Taichi FURUHASHI

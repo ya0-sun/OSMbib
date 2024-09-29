@@ -1,0 +1,46 @@
+Time,Title,Author
+9:30am,The Fourteen-Billion Dollar Map_ or Cartography in a Rapidly Changing City_ and why it matters,Ambassador Allan Mustard
+10:00am,OpenStreetMap Analytics,Cristiano Giovando
+10:00am,OpenSolarMap_ Crowdsourcing and machine learning to classify roofs,Michel Blancard
+10:30am,Nicaragua's new crowd-sourced bus map_ Lessons learnt,Eduardo Augusto Mayorga;Felix Delattre
+10:30am,A love-letter to OSM_ Greetings from Brussels,Pieter Brusselman
+11:30am,Energise your community with focused projects,Brian Prangle
+11:30am,OSM goes indoors_ Why SNCF Transilien mapped 388 train stations with OpenStreetMap,Cynthia Gutton
+12:00pm,Investing in OSM communities to build resilience,Vivien Deparday
+12:00pm,OSM goes indoors_ Usages, tools and prospects,Antoine Riche;Adrien Pavie
+12:30pm,Vector tiles from OpenStreetMap,Lukas Martinelli
+12:30pm,Open imagery matters_ Remote mapping with OpenAerialMap,Daniel da Silva
+2:10pm,A map of OpenStreetMap,Mikel Maron
+2:10pm,State of OSRM,Johan Uhle
+2:40pm,WeeklyOSM_ Why how what where and where we go,Manfred Reiter;Laura Barroso
+2:40pm,Converting a regular carto project to vector tiles_ OSM-carto case study,Rory McCann
+3:10pm,Is she a part of your community?,Srravya C
+3:10pm,SQL all the things_ Exposing OSM data services to PostgreSQL users,Jorge Sanz
+4:10pm,Gardening OSM data with Overpass API,Roland Olbricht
+4:40pm,Tiles under heavy artillery_ Serving one billion maps per month,Loic Ortola
+5:10pm,State of the licence,Simon Poole
+5:10pm,A stroll through the hidden corners of Taginfo,Jochen Topf
+9:30am,Trending Places on OpenStreetMap,Stefan Keller
+9:30am,The World We Want_ OpenStreetMap and the Sustainable Development Goals,Tyler Radford
+10:00am,Using big data to help us improve the map,Beata Jancso
+10:00am,Building large-scale crowdsourcing communities with the Humanitarian OpenStreetMap Team,Martin Dittus
+10:30am,Tracking OpenStreetMap changes_ Merging changeset and metadata together for improved change tracking,Dylan Moriarty
+10:30am,State of West Africa,Mohamet Lamine N'Diaye;Dibloni Innocent Soungalo
+11:30am,Camp-mapping in Greece,Henk Hoff
+11:30am,MapContrib_ Thematic OpenStreetMap contribution,Guillaume Amat
+12:00pm,OpenSchoolsKenya,Zacharia Muindi
+12:00pm,The minimalist OSM Building Editor,Jan Marsch
+12:30pm,Mapping Ireland's 61_000 administrative boundaries,Rory McCann
+12:30pm,Portable OSM_ Into the disconnected wilds,Emily Eros
+2:00pm,Watching for vandalism,Sajjad Anwar
+2:00pm,TeachOSM_ Harnessing the power of OpenStreetMap for geography education,Maggie Cawley
+2:30pm,Trace from Space_ International version,Kevin Bullock
+2:30pm,Map it forward_ Incorporating OSM into the universities curriculum,Vasanthi Hargyono
+3:00pm,OpenStreetMap US_ The real McCoy,Drishtie Patel;Alyssa Wright;Ian Dees;Alex Barth;Martijn van Exel
+3:00pm,OpenStreetMap for educational purposes,Louis-Julien de la Bouëre
+4:00pm,Empowering women through OpenStreetMap in Mali,Astou Nathalie Sidibe
+4:00pm,What where... when! Let's add another dimension with OpenEventDatabase,Christian Quest
+4:30pm,Building a digital humanitarian society in Pakistan_ A perspective,Usman Latif
+4:30pm,OSM for traffic simulation,Michael Zilske
+5:00pm,Comparing OSM data and Brussels local government data,Marc Ducobu
+5:00pm,Railways at OpenStreetMap,Michael Reichert

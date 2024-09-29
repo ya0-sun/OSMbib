@@ -1,0 +1,59 @@
+Time,Title,Author
+9:00,Keynote: Intro to OSM,Steve Coast
+9:15,Keynote: A day in the life of a mapper: Why OSM Matters to Me,Henk Hoff
+9:30,Keynote: Geodata creation: past present and future,Peter Batty
+10:30,Keynote: Using OpenStreetMap Maps in Flickr,Aaron Cope
+10:30,Creating Quality the OSM way,Jochen Topf
+10:30,Operating a UK wide multi modal journey planner and the role of user contributed data,Peter Stoner;Peter Miller
+12:20,Making the switch to OpenStreetMap,James Rutter
+14:00,Your Future is Customized,Nick Black
+14:20,Cartotype,Matt Miller
+14:40,From maps and APPs to mashups and APIs,Arie J Duindam
+15:00,Local Transport Posters,Chris Osborne
+9:30,Beyond Good Enough? Spatial Data Quality and OSM,Muki Haklay
+10:00,Is volunteered geographic information sustainable?,Steven Feldman
+10:20,Geographic Intelligence via an Open Strategy,Gary Gale
+11:20,The State of Germany,Frederick Ramm
+11:30,The State of Canada,Richard Weait
+11:40,The State of Ukraine,Igor Shubovych
+11:50,The State of France,Emilie Lafray
+15:00,Community Smoothness,Harry Wood
+15:15,OpenStreetView - Crowdsourced Street-level Imagery,John McKerrell
+16:40,Integrating OpenStreetMap satellite imagery and custom maps into Wikipedia,Katie Filbert
+16:50,Meta-mapping: some powerful style sheet techniques,Graham Asher
+17:10,Free and Open Palestine,Mikel Maron
+11:20,Location Based Services and 3D Visualization based on OSM,Martin Over
+11:40,Building a mobile information system,Richard Spindler
+12:00,Open Paper Maps,Mike Migurski
+14:00,Review of OSM related projects at LogiSim (UPC),Jaume Figueras
+14:15,OpenStreetMap standalone server as a core of system for environmental data publication for wide public in Ireland,Blazej
+14:30,Rendering OSM Maps in your Browser,Tels
+14:45,An OpenStreetMap application for navigating pedestrian-based areas,Laura Slivinski
+15:00,osmFuel: A social app for maintaining fuel station metadata by non OSM users,Adolf Hohl
+15:15,Bridging the Gap: Using OSM Data with GIS Tools,Jochen Topf
+9:45,The OSM Spirit,Jochen Topf
+10:00,The good the bad and the ugly,Peter Miller
+11:00,Cartagen and GSS: maps that change move and tell stories,Jeffrey Warren
+11:15,Volunteer Generated Maps - How 'Value' Changes Everything,Christopher J. Parker
+11:30,Twinverse: a virtual world base on maps,Joaquin Keller
+11:45,CycleStreets - UK-wide cycle journey planner and photomap,Martin Lucas-Smith
+12:00,How Testing helped the API 0.6 Migration,Shaun McDonald
+12:15,How People Search for Locations,Ed Freyfogle
+11:00,Improve the Bottom Line with OpenStreetMap,Richard Weait
+11:15,Making Money with OpenStreetMap,Frederik Ramm
+11:30,Flirting with the music industry,Edward Mac Gillavry
+12:15,The Africover Import - Lessons Learned and Next Steps,Robert Soden
+12:15,A New Way To Amsterdam,Andrew Larcombe
+12:15,The Open Geo Group,Marc Vloemans
+14:30,Mapping History (starting with Manchester),Frankie Roberto
+14:45,Open Historical Map， Tim Waters
+15:00,Nationaal Archief: Mapping Collective History Together,Edward MacGillavry;Thijs van Exel;Judith Moortgat
+15:10,Bringing OSM to schools!,Sarah Manley
+14:30,Integrating other Geo Data with OSM,Cragg Nilson
+14:45,FreeIT and OpenStreetMap,Cristina Moretto
+15:00,Enterprise and Government Visualisation Analytics using OpenStreetMap,Andrew Turner
+15:10,An iPhone app for OSM editing,Oleg Shaniuk
+16:00,The State of Italy,Simone Cortesi
+16:10,The State of the USA,Dirk Munson
+16:20,The State of Spain,Iván Sánchez Ortega
+16:30,Advanced OSM Cartography,Andy Allan

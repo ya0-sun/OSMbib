@@ -1,0 +1,76 @@
+Time,Title,Author
+09:30,Opening,SotM Working Group
+10:00,Keynote: Open up! Why digital mobility needs participation,Christian Förster;Dietmar Seifert
+10:30,Keynote,Karen M. Sandler
+11:30,Get to know OSGeo and how OSGeo is connected to OpenStreetMap,Astrid Emde
+11:30,Data Quality and Feature Extraction at scale with RoboSat.pink,Olivier Courtin
+12:00,Keepin' it fresh (and good)! - Continuous Ingestion of OSM Data at Facebook,Kevin Ventullo;Christopher Klaiber
+12:00,Human Mapping with Machine Data,Christopher Beddow;Edoardo Neerhut
+12:30,Driving South East Asia Forward with OpenStreetMap,Jinal Foflia
+12:30,Assisted Intelligence - How we map with the support of new technologies,Felix Delattre;Surabhi Singh
+14:00,ODbL license compatibility,Kathleen Lu
+14:30,Communication and Knowledge Transfer in OSM,Hanna Krüger
+14:30,OsmInEdit: a simple indoor editor,Thomas Sontag;Andreas Dirks;Hannes Geißelmann;Adrien Pavie
+15:00,Past and Future of the OSMF Membership Working Group,Michael Spreng
+15:00,Observe - offline;cross-platform field mapping tool for OpenStreetMap,Sajjad Anwar
+16:30,OSM Data: From Digital to Physical Design,Yantisa Akhadi
+17:00,CyclOSM; a bicycle oriented render for every cyclist,Lucas Verney;Florimond Berthoux
+17:00,VR Map: Using OSM Data In a WebVR Environment,Robert Kaiser
+17:30,How to use OpenStreetMap data with the Desktop GIS QGIS,Astrid Emde
+17:30,Hikar - OSM Augmented Reality for Walkers across Europe,Nick Whitelegg
+09:30,Flexible Routing with GraphHopper,Peter Karich
+09:30,Mapathon; mapathon; mapathon!,Séverin Menard;Nicolas Chavent
+10:00,Imagery Solutions in OpenStreetMap,Kevin Bullock
+10:00,OSMF local chapters in countries of the Global South what can we learn from OSM associations dynamics in French-speaking southern countries of Africa and the Caribbean?,Séverin Menard;Nicolas Chavent
+10:30,Tales from the Tasking Manager,Ramya Ragupathy;Wille Marcel Lima Malheiro;Felix Delattre
+11:30,Meet an OpenStreetMapper,Gregory Marler
+11:30,Our Falkirk: Mitigating the Impacts of Poverty using OSM Data Themes,Alison Moon
+12:00,Customizing Search for Special-Interest Maps,Sarah Hoffmann
+12:00,OSM Quality Mapping: Metrics to monitor Buildings outbounds,Pierre Béland
+12:30,Is your OSM App spying on you?,Thomas Skowron
+12:30,Bringing Validation to Users: Integrating Quality Assurance Checks into Map Editors,Matthew Gibb;Clarisse Abalos
+14:00,What's behind JOSM?,Vincent Privat
+14:00,Spatial indexes for OSM in PostGIS,Felix Kunde
+14:30,Mapping solar panels can save megatons of CO2,Dan Stowell;Jerry Clough
+15:00,National Trust - Managing a Path inventory in OSM: Towards an Open Paths standard in OSM for the UK,Huw Davies
+15:00,OSM data processing with PostgreSQL/PostGIS,Jochen Topf
+15:30,Collaborative cartography of cycling infrastructure for route and thematic maps in Medellin; Colombia,Carolina Ortega Espinosa
+16:30,Notes: Can we do better. Experiences and Ideas from the Frontline,Chris Fleming
+16:30,Mapper's privacy,Roland Olbricht
+17:00,Is the OSM data model creaking?,Martin Lucas-Smith
+17:00,Teams for OpenStreetMap,Marc Farra
+17:30,Broken Promises and Technical Difficulties,Ilya Zverev
+09:30,Osmose-QA : MapCSS; OpenData and Mapillary,Frédéric Rodrigo
+09:30,OSM2World: 3D OSM in your browser,Tobias Knerr
+09:30,The Next Generation of Mappers: Learning from YouthMappers,Jessica Bergmann
+09:30,OpenStreetMap and Wikidata: Awesome Together,Eugene Alvin Villar;Edward Betts
+10:00,Routing for humans,Sebastian Ritterbusch
+10:00,OpenDatathon activities in Japan,Shinji Enoki
+10:30,Mapping Mobility in Stockport,Sam Milsom
+10:30,OpenStreetMap in Croatia,Hrvoje Bogner
+11:30,Caretography - Mapping Difficult Issues with OpenStreetMap during Difficult Times,David Garcia;Martin Dittus
+11:30,Integrating and validating open data in OSM using street pictures,Adrien Pavie
+11:30,New processes to agree on tagging suggestions and their interaction with the editing software available on openstreetmap.org,Roland Olbricht
+12:00,Introduce OpenPlaceReviews and connect to OpenStreetMap,Victor Shcherb
+12:30,Access to Prosperity: Quantifying Infrastructure Impact With OSM,Davey Lovin
+14:00,Pedestrian routing in complex areas: the case of Paris railway stations,Antoine Riche
+14:00,Norway: Successful deployment of OSM in Public Transport,Johan Wiklund
+14:30,Automatically annotate a pedestrian route with OSM landmarks,Frédéric Rodrigo
+14:30,Public Transport Navigation using OpenStreetMap by OsmAnd,Victor Shcherb;Eugene Kizevich
+15:00,From car routing to train routing,Denis Cheynet
+15:00,OSM Vector Tiles in custom coordinate systems,Jiri Komarek
+09:00,Bridging the Map? Exploring Interactions between the Academic and Mapping Communities in OpenStreetMap,A. Yair Grinberger; Marco Minghini; Levente Juhász; Peter Mooney; Godwin Yeboah
+10:00,Analysis of OSM data through OSM-Notes user posting,Toshikazu Seto; Hiroshi Kanasugi; Yuichiro Nishimura
+10:30,A novel application of models of species abundance to better understand OpenStreetMap Community structure and interactions,Peter Mooney
+11:30,Towards Scalable Geospatial Remote Sensing for Efficient OSM Labeling,Rui Zhang; Marcus Freitag; Conrad Albrecht; Siyuan Lu; Wei Zhang
+12:00,Estimating latent energy demand of buildings,Nikola Milojevic-Dupont; Peter-Paul Pichler; Lynn H. Kaack; Steffen Lohrey; Felix Creutzig
+12:30,Client-side route planning: preprocessing the OpenStreetMap road network for Routable Tiles,Harm Delva; Julián Andrés Rojas Meléndez; Ben Abelshausen; Pieter Colpaert; Ruben Verborgh
+14:00,Intrinsic assessment of OpenStreetMap contribution patterns through Exploratory Spatial Data Analysis,Marco Minghini; Daniele Oxoli; Francesco Frassinelli; Maria Antonia Brovelli
+14:30,Corporate Editors in the Evolving Landscape of OpenStreetMap: A Close Investigation of the Impact to the Map & Community,Jennings Anderson; Dipto Sarkar; Leysia Palen
+15:00,Exploring the Effects of Pokémon Go Vandalism on OpenStreetMap,Levente Juhász; Hartwig Hochmair; Sen Qiao; Tessio Novack
+15:30,Analyzing the spatio-temporal patterns and impacts of large-scale data production events in OpenStreetMap,A. Yair Grinberger; Moritz Schott; Martin Raifer; Rafael Troilo; Alexander Zipf
+16:30,Development after Displacement: Using OSM data to measure SDG indicators at informal settlements,Jamon Van Den Hoek, Hannah Friedrich, Anna Ballasiotes, David Wrathall
+17:00,Analysis of OpenStreetMap data quality at different stages of a participatory mapping process: Evidence from informal urban settings,Godwin Yeboah; Rafael Troilo; Vangelis Pitidis; João Porto de Albuquerque
+17:30,Assessing the Completeness of Urban Green Spaces in OpenStreetMap,Christina Ludwig; Robert Hecht; Sven Lautenbach
+
+
