@@ -4,8 +4,6 @@ This repo contains research data and interactive visualization of the paper:
 
 __Contributors, Topics, and Future Trends: A Deep Dive into 20 Years of OpenStreetMap Research__
 
-by Yao Sun, Liqiu Meng, Andres Camero, Stefan Auer, Xiao Xiang Zhu
-
 
 ## Interactive visualization 
 
@@ -61,18 +59,3 @@ including research data for:
 * 4-keywords
 * 5-history
 * 6-trendTopics
-
-## Citation
-
-If you find the repo useful, please consider cite the following paper:
-```
-@article{sun2024osmbib,
-  author={Sun, Yao and Meng, Liqiu and Camero, Andres and Auer, Stefan and Zhu, Xiao Xiang},
-  journal={}, 
-  title={Contributors, Topics, and Future Trends: A Deep Dive into 20 Years of OpenStreetMap Research}, 
-  year={2024},
-  volume={},
-  pages={},
-  doi={}}
-
-```
