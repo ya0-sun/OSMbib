@@ -2,8 +2,8 @@ import json
 import pandas as pd
 
 # File paths
-json_file_path = 'affiliations.json'  # Replace with your JSON file path
-excel_file_path = 'items_affi.xlsx'   # Replace with your desired Excel file path
+json_file_path = 'affiliations.json'  
+excel_file_path = 'items_affi.xlsx'   
 
 # Function to extract valid JSON from a file
 def extract_json_content(file_path):
@@ -47,5 +47,3 @@ df = pd.DataFrame({
 df.to_excel(excel_file_path, index=False, engine='openpyxl')
 
 print(f'Items have been successfully written to {excel_file_path}')
-# else:
-#     print('The JSON data does not contain the "items" field.')
