@@ -2,8 +2,8 @@ import json
 import pandas as pd
 
 # File paths
-json_file_path = 'all-keywords.json'  # Replace with your JSON file path
-excel_file_path = 'items.xlsx'   # Replace with your desired Excel file path
+json_file_path = 'all-keywords.json'  
+excel_file_path = 'items.xlsx'   
 
 # Function to extract valid JSON from a file
 def extract_json_content(file_path):
