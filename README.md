@@ -35,4 +35,23 @@ by Yao Sun, Liqiu Meng, Andres Camero, Stefan Auer, Xiao Xiang Zhu
 
 [![Co-Authorship Network:](https://github.com/ya0-sun/OSMbib/blob/main/img/co-authorship.png 'Co-Authorship Network')](https://app.vosviewer.com/?json=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1BZZPj4WQq477UoeBQhTDaV09ll5_daAl)
 
+## Research Data 
+
+### WoS 
+
+The directory contains WoS data: 
+* [original data downloaded from WoS](https://github.com/ya0-sun/OSMbib/tree/main/data/wos/wos_download)
+* [merged data](https://github.com/ya0-sun/OSMbib/blob/main/data/wos/wos_merged_mod.txt)
+* rules and examples for disambiguation [authors](https://github.com/ya0-sun/OSMbib/blob/main/data/wos/names_change.txt) and [affiliations](https://github.com/ya0-sun/OSMbib/blob/main/data/wos/affiliation_change.txt). 
+
+### SotM 
+
+The directory contains SotM data:
+* [SotM websites](https://github.com/ya0-sun/OSMbib/blob/main/data/sotm/sotm_websites.md)
+* [curated data of talks in each year](https://github.com/ya0-sun/OSMbib/blob/main/data/sotm/sotm_TI_AU_PY_merged.xlsx)
+* [key players info webpage from OSM](https://github.com/ya0-sun/OSMbib/blob/main/data/sotm/keyFigures_infoList.md)
+* [merged data list with Title-Author-Year](https://github.com/ya0-sun/OSMbib/blob/main/data/sotm/sotm_TI_AU_PY_merged.xlsx)
+
+## Analysis 
+
 
