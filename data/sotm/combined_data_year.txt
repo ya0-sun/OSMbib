@@ -1,0 +1,687 @@
+Time,Title,Author	2007
+10:15 - 10:45,This Mapping Stuff Could Really Take Off,Steve Coast	2007
+10:15 - 10:45,Why Mash-ups Suck (and Cartography Matters),Richard Fairhurst	2007
+11:45 - 12:00,Map Room 101,Steve Chilton	2007
+12:00 - 12:30,Bringing Maps to Life,Barry Crabtree	2007
+12:35 - 13:00,STAGS - A standardised tagging schema for OSM,Andy Robinson	2007
+15:00 - 15:30,Liberating GIS from the OS,Mike Calder	2007
+16:00 - 16:30,Here be Dragons,Steve Chilton	2007
+16:30 - 17:00,OSM and the art of bicycle maintenance,Etienne Cherldu	2007
+17:00 - 17:30,Putting the map into OSM_ rendering geo-data with Mapnik,Artem Pavlenko	2007
+17:30 - 18:00,Developing Concepts for an Effective Atlas,William Cartwright	2007
+09:45 - 10:15,The Cathedral and the GPS - a Personal View,Ed Parsons	2007
+10:15 - 10:45,Route Planning With OSM Data,Frederik Ramm	2007
+10:45 - 11:15,Non-Vehicle Route Planning in Experience Augmented Networks,Harald Holone	2007
+12:00 - 12:30,GeoClue - Geographic Information Service System,Andrew Turner;Henri Bergius	2007
+12:30 - 13:00,Why is tracking vehicles so bloody hard?,Phil Winstanley	2007
+14:20 - 14:40,The State of the Netherlands,Jeroen Dekkers	2007
+14:40 - 15:00,OSM On Your Phone,Tim Waters	2007
+15:00 - 15:30,OpenStreetMap. A Disaster Waiting To Happen,Mikel Maron	2007
+16:00 - 16:30,OSM and the public - what barriers need to be crossed?,Muki Haklay	2007
+16:30 - 17:00,20 Years of Web Mapping,Sean Phelan;John McKerrell	2007
+Saturday,The MegaGalactic Super Visible StreetSign Company,Robert Barr	2008
+Saturday,So I have all this data...,Steve Chilton	2008
+Saturday,The State of Ireland,Christian van den Bosch;Gareth Easton	2008
+Saturday,Using Crowd Source Data in a Commercial Mapping API,John McKerrell	2008
+Saturday,The State of Italy,Simone Cortesi	2008
+Saturday,The Commerical Viability of OpenStreetMap,Ed Freyfogle	2008
+Saturday,OpenStreetMap vs The World,Dair Grant	2008
+Saturday,All Present and Correct,Peter Miller	2008
+Saturday,An OpenStreetMap Documentary,Tom Black	2008
+Saturday,State of Japan,Hiroshi Miura	2008
+Saturday,Mapping Bolivia,Claudia Uberhuaga	2008
+Saturday,London Mapping Marathon,Shaun McDonald	2008
+Saturday,Map Warper,Tim Waters	2008
+Saturday,State of North Korea,Henk Hoff	2008
+Saturday,State of Canada,Richard Weait	2008
+Saturday,pyroutelib2,OJW	2008
+Saturday,The History and Future of Map Making,AND	2008
+Saturday,Open Content printed travel guidebooks using OpenStreetMap (Wikitravel Press),Jani Patokallio	2008
+Saturday,OpenRouteService,Sebastian Schmitz	2008
+Saturday,State of France,Renaud Martinet	2008
+Saturday,OpenStreetMap Foundation,Mike Collinson	2008
+Saturday,Nasty Ugley Muck (Ordnance Survey),John Carpenter	2008
+Saturday,The State of the Netherlands,Henk Hoff	2008
+Saturday,Threat Analysis: Things That Could Spoil Our Party,Frederik Ramm	2008
+Sunday,Limericks,Various	2008
+Sunday,SOTM 2008,Steve Coast	2008
+Sunday,What Map Maker is / is not,Ed Parsons	2008
+Sunday,Federating Open GeoData - can we connect the dots?,Sean Gorman	2008
+Sunday,OSM Cycle Map,Andy Allan	2008
+Sunday,Krautsourcing GeoData - or what are the Germans doing?,Jochen Topf	2008
+Sunday,Pervasive media and mediascapes,Ben Clayton	2008
+Sunday,OpenStreetMap for National Park,Hiroshi Miura	2008
+Sunday,Yahoo! Geoplanet,Gary Gale	2008
+Sunday,Turn Based Restictions in OSM - Their application in routing,Mark Iliffe	2008
+Sunday,Hack weekend,Martijn van Exel	2008
+Sunday,OpenStreetMap and Fieldwork,Gervase Markham	2008
+Sunday,Server Infrastructure,Grant Slater	2008
+Sunday,The State of Spain Take 2,Iván Sánchez Ortega	2008
+Sunday,The Phillipines - OSM at work in Asia,Mike Collinson	2008
+Sunday,Marble - A virtual globe for people,Torsten Rahn	2008
+Sunday,Cartotype & OpenStreetMap,Graham Asher	2008
+Sunday,Never Get Lost !!!!,Nick Whitelegg	2008
+Sunday,Osmarender front end,Mario Ferraro	2008
+Sunday,Mapping India 2008,Mikel Maron	2008
+9:00,Keynote: Intro to OSM,Steve Coast	2009
+9:15,Keynote: A day in the life of a mapper: Why OSM Matters to Me,Henk Hoff	2009
+9:30,Keynote: Geodata creation: past present and future,Peter Batty	2009
+10:30,Keynote: Using OpenStreetMap Maps in Flickr,Aaron Cope	2009
+10:30,Creating Quality the OSM way,Jochen Topf	2009
+10:30,Operating a UK wide multi modal journey planner and the role of user contributed data,Peter Stoner;Peter Miller	2009
+12:20,Making the switch to OpenStreetMap,James Rutter	2009
+14:00,Your Future is Customized,Nick Black	2009
+14:20,Cartotype,Matt Miller	2009
+14:40,From maps and APPs to mashups and APIs,Arie J Duindam	2009
+15:00,Local Transport Posters,Chris Osborne	2009
+9:30,Beyond Good Enough? Spatial Data Quality and OSM,Muki Haklay	2009
+10:00,Is volunteered geographic information sustainable?,Steven Feldman	2009
+10:20,Geographic Intelligence via an Open Strategy,Gary Gale	2009
+11:20,The State of Germany,Frederick Ramm	2009
+11:30,The State of Canada,Richard Weait	2009
+11:40,The State of Ukraine,Igor Shubovych	2009
+11:50,The State of France,Emilie Lafray	2009
+15:00,Community Smoothness,Harry Wood	2009
+15:15,OpenStreetView - Crowdsourced Street-level Imagery,John McKerrell	2009
+16:40,Integrating OpenStreetMap satellite imagery and custom maps into Wikipedia,Katie Filbert	2009
+16:50,Meta-mapping: some powerful style sheet techniques,Graham Asher	2009
+17:10,Free and Open Palestine,Mikel Maron	2009
+11:20,Location Based Services and 3D Visualization based on OSM,Martin Over	2009
+11:40,Building a mobile information system,Richard Spindler	2009
+12:00,Open Paper Maps,Mike Migurski	2009
+14:00,Review of OSM related projects at LogiSim (UPC),Jaume Figueras	2009
+14:15,OpenStreetMap standalone server as a core of system for environmental data publication for wide public in Ireland,Blazej	2009
+14:30,Rendering OSM Maps in your Browser,Tels	2009
+14:45,An OpenStreetMap application for navigating pedestrian-based areas,Laura Slivinski	2009
+15:00,osmFuel: A social app for maintaining fuel station metadata by non OSM users,Adolf Hohl	2009
+15:15,Bridging the Gap: Using OSM Data with GIS Tools,Jochen Topf	2009
+9:45,The OSM Spirit,Jochen Topf	2009
+10:00,The good the bad and the ugly,Peter Miller	2009
+11:00,Cartagen and GSS: maps that change move and tell stories,Jeffrey Warren	2009
+11:15,Volunteer Generated Maps - How 'Value' Changes Everything,Christopher J. Parker	2009
+11:30,Twinverse: a virtual world base on maps,Joaquin Keller	2009
+11:45,CycleStreets - UK-wide cycle journey planner and photomap,Martin Lucas-Smith	2009
+12:00,How Testing helped the API 0.6 Migration,Shaun McDonald	2009
+12:15,How People Search for Locations,Ed Freyfogle	2009
+11:00,Improve the Bottom Line with OpenStreetMap,Richard Weait	2009
+11:15,Making Money with OpenStreetMap,Frederik Ramm	2009
+11:30,Flirting with the music industry,Edward Mac Gillavry	2009
+12:15,The Africover Import - Lessons Learned and Next Steps,Robert Soden	2009
+12:15,A New Way To Amsterdam,Andrew Larcombe	2009
+12:15,The Open Geo Group,Marc Vloemans	2009
+14:30,Mapping History (starting with Manchester),Frankie Roberto	2009
+14:45,Open Historical Map	2009
+15:00,Nationaal Archief: Mapping Collective History Together,Edward MacGillavry; Thijs van Exel;Judith Moortgat	2009
+15:10,Bringing OSM to schools!,Sarah Manley	2009
+14:30,Integrating other Geo Data with OSM,Cragg Nilson	2009
+14:45,FreeIT and OpenStreetMap,Cristina Moretto	2009
+15:00,Enterprise and Government Visualisation Analytics using OpenStreetMap,Andrew Turner	2009
+15:10,An iPhone app for OSM editing,Oleg Shaniuk	2009
+16:00,The State of Italy,Simone Cortesi	2009
+16:10,The State of the USA,Dirk Munson	2009
+16:20,The State of Spain,Iván Sánchez Ortega	2009
+16:30,Advanced OSM Cartography,Andy Allan	2009
+10:10-10:30,OpenStreetMap – Ready for business!,Dr.-Ing. Roger Müller	2010
+10:30-10:50,How I built a location-based social app,John McKerrell	2010
+10:50-11:10,OpenStreetMap Monetization,Christian O. Petersen	2010
+11:10-11:30,OSM at AOL Local,Randy Meech	2010
+12:00-12:20,OSM and the law: enemies, friends or something in between?,Katleen Janssen	2010
+17:30-17:50,OSM on OLPC’s XO in Primary Schools,Philippe Rieffel	2010
+12:00-12:20,Distributed bulk rendering on the Amazon cloud,Nogago	2010
+12:20-12:40,Integrating Maps into OpenNMS Network Management,OpenNMS	2010
+12:40-13:00,Taking GPS navigation from commercial maps to OSM,Skobbler	2010
+13:00-13:20,Integrating Real-time Bus-Tracking with Pedestrian Navigation,National University of Ireland	2010
+15:30-15:50,Who are the mappers and why do they map in OpenStreetMap?,Nama Raj Budhathoki;Muki Haklay;Zorica Nedovic-Budic	2010
+15:50-16:10,OSM in a Mobile Augmented Reality Game,Jaak Laineste	2010
+16:10-16:30,Data Validation of Crowd Sourced Data,Bob Chell	2010
+16:30-16:50,Uncommon Operating Picture: Using OSM for Humanitarian Response,John Crowley	2010
+15:30-15:50,Mapping for the Masses,Cloudmade	2010
+15:50-16:10,Extend OSM with configurable solutions,geo.me	2010
+16:10-16:30,Design, setup and management of spatial platform,Błażej Ciepłuch	2010
+16:30-16:50,Resolution independent maps on the iOS platform,Curly Brackets	2010
+17:50-18:10,Map Kibera – Mapping one of Africa’s largest slums,Mikel Maron	2010
+12:20-12:40,From Arkansas to Afghanistan – Open data sharing and collaboration for better engagement,Kate Chapman	2010
+09:40-10:00,State of OSM,Steve Coast	2010
+10:00-10:20,OSM and the tyranny of place,Muki Haklay;Nama Raj Budhathoki	2010
+10:20-10:40,From the Outside Looking In,Nick Black	2010
+10:40-11:00,Local knowledge and global search,Matthew Quinlan	2010
+12:00-12:20,Party Time! Good and bad ways to run mapping parties,Harry Wood	2010
+12:20-12:40,Outreach to Non-Technical Communities,Thea Clay	2010
+12:40-13:00,Libero Accesso… – mapping the accessibility,Simone Gadenz	2010
+13:00-13:20,Maps for blind and visually impaired people,Lulu-Ann	2010
+12:00-12:20,OSM without Delay,Matt Amos	2010
+12:20-12:40,Efficient Processing of OSM XML using Java,Fangli Ying;Peter Mooney;Padraig Corcoran	2010
+12:40-13:00,Tuning the Mapnik Rendering Chain,Frederik Ramm	2010
+13:00-13:20,OSMTrack – Towards the best iPhone app for adding roads,Dmitri Toropov	2010
+15:10-15:30,OSM and the Art of Motorcycle Maintenance,Martijn van Exel	2010
+15:30-15:50,Tag Central: a Schema for OSM,David Earl	2010
+15:50-16:10,Is OSM good enough for automotive ADAS apps?,Dmitri Toropov	2010
+16:10-16:30,The Problem with Metadata,Charles Kennelly	2010
+09:30-9:50,Can we look at your polygons?,Peter Mooney	2010
+09:50-10:10,Corine and BMO Import – Conclusions,Emilie Laffray	2010
+12:00-12:20,Geovelo, a route planner for bicycle,Gaël Sauvanet	2010
+12:20-12:40,OpenTrailView: StreetView for paths and trails,Nick Whitelegg	2010
+12:40-13:00,Ad-hoc Map Rendering on Mobile Devices,Jürgen Broß	2010
+13:00-13:20,Ericsson Labs – A toolbox for Map Application Innovation,Richard Carlsson	2010
+12:00-12:20,What I’d like to do with Mapnik,Steve Chilton	2010
+12:20-12:40,Vernacular mapping and the ethics of what comes next,Joe Gerlach	2010
+12:40-13:00,What I learned making a real map on real paper for real people and real money,David Earl	2010
+13:00-13:20,MapOSMatic: City Maps for the Masses,Thomas Petazzoni;Maxime Petazzoni	2010
+15:30-15:50,Grounding the OSM Project: The Humanitarian OSM Team in Haiti,Nicolas Chavent	2010
+15:50-16:10,OSM Integrated with GeoCommons offline for Humanitarian Response,Kate Chapman	2010
+9:30-10:00,Be a Mapper,Richard Weait	2011
+10:00-10:30,An Open Road Map for OpenStreetMap,Patrick McDevitt	2011
+11:00-11:25,Adding value to our data: Using OSM in our commercial products,Coleman McCormick	2011
+11:25-11:50,Landmarks in OSM,Stephen Winter	2011
+14:00-14:25,Where the Streets Have No Name,Daniel Kastl	2011
+14:25-14:50,Crowd Sourced open geodata: Next generation information poverty solutions for developing nations,Stephen Debqiue	2011
+14:50-15:10,What is Open and What is Free in OGC OSGeo and OSM,Arnulf Christl	2011
+9:00-9:30,Mapping the Future,Steve Coast	2011
+9:30-10:00,OpenStreetMap Past_ Presnet and Future,Peter Batty	2011
+10:00-10:30,Japan 3/11 – OSM in Japan before and after the tsunami,Daniel Kastl;OSMFJP	2011
+11:00-11:20,The maps are available now let's use them,Mihal Miu	2011
+11:20-11:40,Building efficient map apps using OSM vector source data,Martin Havnor	2011
+11:40-12:00,Indoor AR Audio Navigation,Jacques Lemordant	2011
+12:00-12:20,Newscoop and OSM-powered geolocation data for news articles,Douglas Arellanes	2011
+11:00-11:20,Airborne Law Enforcement and OSM,Thomas Churchill	2011
+11:20-11:40,Using OpenStreetMap for Logistics and Planning,Ben Abelshausen	2011
+11:40-12:00,Walking Papers Two years on,Michal Migurski	2011
+12:00-12:20,What's new in PostgreSQL 9.1,Steve Singer	2011
+14:00-14:25,Japan earthquake and activities,Hiroshi Miura	2011
+14:25-14:50,Open Trails Augmented Reality for Walkers,Nick Whitelegg	2011
+14:50-15:10,Shields Up!,Richard Weait	2011
+15:10-15:30,The use of OSM registering nighttime ISS Photographs,Qing Liu	2011
+16:00-16:30,Blossoms Weeds and Blades of Grass - Growing the map,Harry Wood	2011
+16:30-,Learn to Use ArcGIS Tools for OSM,Al Pascual	2011
+9:00-9:30,OSM and Thematic Mapping made pretty,Christopher Helm	2011
+9:30-10:00,OSM Bright: A template for beautiful maps,AJ Ashton	2011
+10:00-10:30,Piecemeal Geodata,Michal Migurski	2011
+11:00-11:20,Calculating mapping tasks using web mining techniques,Jorge Gustavo Rocha	2011
+11:20-11:40,Insert Coin To Play,Martijn van Exel	2011
+11:40-12:00,Address Hunter,Philipp Kandal	2011
+14:25-14:50,Assessing geospatial learning aspects in digital maps,Philippe Rieffel	2011
+14:50-15:10,Has OSM opened the UK street Map? If not why not?,Bob Barr	2011
+15:10-15:30,VGI at the USGS The OpenStreetMap Collaborative Prototype	2011
+9:30am -10:00am,Welcome keynote,Steve Coast	2012
+10:00am -10:30am,The collaboration of Yahoo JAPAN and OSM now and the future,Shin Murakami	2012
+11:00am -11:20am,OpenStreetMap and the heavy rainfall disaster in the mountainous area of Nara Japan; Introduction of creating a public relations disaster information site quickly using the OSM,Yuichiro Nishimura;Yoichi Kayama	2012
+11:40am -12:00am,OSM in Afghanistan,Hameed Tasal	2012
+12:00am -12:30am,Fukushima mapping before and after the disaster; OSM Import data resolve,Kinya Inoue;Tomomichi Hayakawa	2012
+2:00pm -2:20pm,The Possibility Disaster Restoration; Growing OSM base camp in Japan,Toshikazu Seto;Haruyuki Seki;Taichi FURUHASHI	2012
+2:20pm -2:50pm,How can we help ArcGIS Editor for OSM for Crisis workflows; Large scale collaborative mapping in Jakarta,Atsumi Sogawa;Kristy Van Putten	2012
+2:50pm -3:20pm,Testing OSM’s expressiveness and appeal mapping a city being rebuilt; State of the Humanitarian OpenStreetMap Team,Hugh Barnes;Kate Chapman	2012
+9:00am -9:30am,Clean up the world with letsdoitworld org,Jaak Laineste	2012
+9:30am -10:00am,Wheelmap,Raul Krauthausen	2012
+10:00am -10:30am,Detection of Complex Junctions in OSM Data for Automotive Navigation Applications,Dominik Brunner	2012
+11:00am -11:20am,Kaohsiung City Bus Routing system; OpenScienceMaps Multi-Scale Vector Tile Maps,Chine-hung Liu;Falko Schmid	2012
+11:20am -11:40am,Building car navigation with OSM; State of France,Philipp Kandal;Emilie Laffray	2012
+11:40am -12:00am,Using OpenStreetMap road network data for emergency routing; Open Data on the Open Platform,Sittichai CHOOSUMRONG;Masaki Ito	2012
+12:00am -12:30am,IXE From Web to Urban Navigation; Integrating OSM with Traditional & Enterprise GIS Workflows,Jacques Lemordant;Jeffrey Johnson	2012
+2:00pm -2:20pm,The api openstreetmap fr experiment; State of the university school GIS education using OpenStreetMap,Christian Quest;Yuichiro Nishimura	2012
+2:20pm -2:50pm,Routing on the daily planet; Reconstruction of people flow in big cities using OSM data,Dennis Luxen;Yoshihide Sekimoto	2012
+2:50pm -3:20pm,Traffic on OSM; OSM & DIY GPS Logger,Ryan Peterson;Toshihisa Tanaka	2012
+9:00am -9:30am,All present and correct,Peter Miller	2012
+9:30am -10:00am,Parking map make and break stuff,Kay Drangmeister	2012
+10:00am -10:30am,OSM Pirate or pilot,Bob Barr	2012
+11:00am -11:20am,Making a better map Improving OpenStreetMap with Foursquare; GeoSnaching A Social Game for Community Mapping and Open Multimedia Data Generation,Alex Barth;Ishan Chattopadhyaya	2012
+11:20am -11:40am,Mapping of historical places in Japan; railway=subway!,Kinya Inoue;Nicolas BOZON	2012
+11:40am -12:00am,Linking Wikipedia and other Wikmedia projects with OpenStreetMap; Using TileMill to design beautiful maps,Katie Filbert;Konstantin Käfer	2012
+12:00am -12:30am,MapIt Barrier-Free Micro-Mapping with Low-Cost Smartphones; Optimising the Mapnik osm2pgsql Rendering Toolchain,Falko Schmid;Frederik Ramm	2012
+2:00pm -2:20pm,GSI’s Activities for Geospatial Information Applications,Hiroshi Murakami	2012
+2:20pm -2:50pm,OpenStreetMap Editor,Emilie Laffray	2012
+2:50pm -3:20pm,You Know When You are Addicted to OSM When…,Tim Waters	2012
+0940,The OpenStreetMap Revolution, Steve Coast	2013
+1005,OpenStreetMap: Fit for business use,Peter Miller	2013
+1025,The commercial use of OSM: How to foster greater collaboration between the commercial users and broader OSM community,Martijn van Exel	2013
+1045,Lessons from the crowd: How to be truly authoritative,Peter ter Haar	2013
+1135,The struggle of share-alike,Arjan Spigt	2013
+1200,How And Why Governments Should Use (and are using) OpenStreetMap More,Pete Lancaster	2013
+1200,OSM-GB: Examining the dynamics of OSM,Jeremy Morley	2013
+1220,National Trust: The exploratory journey we’ve been on with OSM,Huw Davies	2013
+1220,OSM as a base layer in a open linked data distribution platform,Bert Spaan	2013
+1240,Seeing the Light: Unexpected ways to use Open Data for OSM,Jerry Clough	2013
+1240,Annotating the map for the University of Cambridge,David Earl	2013
+1350,How to build a Smarter City: design principles for digital urbanism,Rick Robinson	2013
+1420,Open Historical Map: Re-using outdated information,David Evans	2013
+1420,OSM2World: 3D Rendering for OpenStreetMap,Tobias Knerr	2013
+1440,More than a router: Creating an ecosystem of products using,Martin Lucas-Smith	2013
+1500,What can Government learn from OSM,Billy Roden	2013
+1500,Lowering the technical barrier to using OSM,Ed Freyfogle	2013
+1520,FixMyBarangay: OSM in Cebu Philippines,Dave Whiteland;Neil Taylor	2013
+1520,The story behind Michelin's first OSM based map,Christian Quest	2013
+1530,Wikimaps,Susanna Ånäs	2013
+1605,State of the Humanitarian OpenStreetMap Team,Kate Chapman	2013
+1630,OSM and disability: Beyond wheelchair=*,Christian Quest	2013
+1630,Open Addressing: The last frontier,Robert Barr	2013
+1650,FixMyPaths: A nationwide path reporting system,Nick Whitelegg	2013
+1650,The OpenData Postcode Finder,Matt Williams	2013
+1710,OSM council use: UK Local Goverment roundup,Paul Sladen	2013
+1710,A Survey of Indian Address Formats: A Geocoding Challenge,Mitali Jha	2013
+0930,WELCOME: Community Greetings from previous SotM Tokyo	2013
+0935,Changing the Ratio of OpenStreetMap Communities,Alyssa Wright	2013
+1000,You are not the crowd,Richard Fairhurst	2013
+1000,Zone de Combat,Jerry Clough	2013
+1000,Brewcamp: Where else are you doing it,Judith Carr	2013
+1020,Signals and Noises: A Look at OpenStreetMap Through its Mailing Lists,Frederick Ramm	2013
+1020,Mapping Western Africa,Nicolas Chavent	2013
+1040,The collaboration network in OSM: The case of Italy,Maurizio Napolitano	2013
+1040,Mapping for change with community groups in Scotland,Tim Foster	2013
+1050,uMappin: OSM data based social network,Ander Pijoan	2013
+1050,The map is not what's there: Psychogeography and OSM,Tim Waters	2013
+1125,Those 3% female OpenStreetMap mappers,Manuela Schmidt;Ilvia Klettner;Renate Steinmann;Elisabeth Häusler;Yuwei Lin	2013
+1125,Osmose: a quality assurance tool,Fredéric Rodrigo	2013
+1145,The Bronze Age of OpenStreetMap,Ilya Zverev	2013
+1145,Using the History of OSM for Quality Assessment,Christopher Barron	2013
+1205,Customizable Interactive Audio Rendering of OSM Maps,Jacques Lemordant	2013
+1205,Opendata: imports and after...,Christian Quest;Fredéric Rodrigo	2013
+1225,How OSM has changed my life: A Newbie's Perspective of Rural Mapping in the UK,Dudley Ibbett	2013
+1225,Evolving the map to completeness,Guy Collins	2013
+1335,Augmented and Virtual Reality for hikers: Recent work,Nick Whitelegg	2013
+1335,Change is relative: Persistence in urban environments,Jerry Clough	2013
+1355,How A Map Can Go Viral (In 8 Simple Steps),Gary Gale	2013
+1355,Mapping for Transition: Comparisons with the OSM Community,Guy Collins	2013
+1415,Geocoding with Solr,Christoph Lingg	2013
+1415,Change recruitment: Mix and match with citizen scientists and environmental volunteers,Gianfranco Gliozzo	2013
+1435,England cycling data project (short talk),Martin Lucas-Smith	2013
+1435,Life is a Game (short talk),Stefan Keller	2013
+1440,Putting the Carto into OpenStreetMap Cartography,Andy Allan	2013
+1440,OSM and micro mobility: Mapping tactile pavements with scooters,Thibaud Michel	2013
+1525,Haptomai: An online service for customizable tactile maps,Christian Graf;Frank Wippich	2013
+1525,Visualising progress,Derick Rethans	2013
+1550,OpenStreetMap in Traditional Development and Humanitarian Organizations, extended session,Kate Chapman	2013
+1630,Refining a vision for OpenStreetMap.org,John Firebaugh	2013
+0930,Managing OSM data on windows: Admit it_ you know you want to,Sam Larsen	2013
+0930,Tube to Chunnel: Underground Mapping,Paul Sladen	2013
+0950,Efficient house number mapping with Keypad-Mapper 3,Markus Semm	2013
+0950,Use of UAV in Haiti,Frederic Moine	2013
+1000,What does the future hold for traditional style mappers,Kinya Inoue	2013
+1010,How does a Global Navigation Satellite know where it is_ to tell you where you are,Martin Wass	2013
+1010,SotM by boat: Mapping the canals and waterways,Paul Sladen	2013
+1015,API 0.7; or, The Whale,Matt Amos	2013
+1100,MapIt Global: Easy lookup of boundaries in OSM,Mark Longair	2013
+1120,Inside Overpass API,Roland Olbricht	2013
+1120,Gamifying Map improvements,Derick Rethans	2013
+1140,TileMan: New alternative to serve OSM tiles,Hiroshi Miura	2013
+1140,OSM TagMemory: Games for education,Taichi Furuhashi	2013
+1150,OpenStreetMap Core Architecture and DevOps,Grant Slater	2013
+1420,High Performance OSM Data Manipulation With Osmium,Jochen Topf	2013
+1420,The state of Scotland,Chris Fleming	2013
+1440,OsmSharp: Unleashing the best of OSM using C#/Mono/.NET,Ben Abelshausen	2013
+1440,State of the map: Slovakia,Michal Páleník	2013
+1500,State of Wikidata,Katie Filbert	2013
+1500,The state of Ireland,Richard Cantwell	2013
+1520,Data coherence between OSM and Wikipedia,Cristian Consonni	2013
+1520,Empowering Communities through Citizen Science Mapping,Paul Georgie	2013
+1550,“Dad_ which zoom level corresponds to One Inch to Three Furlongs again?”: Implicit Scale in the OSM Dataset,Andreas Reimer	2013
+1550,Nominatim: Behind the scenes,Sarah Hoffmann	2013
+1610,Towards an Area Datatype for OSM,Jochen Topf	2013
+1610,Proposal for a Mobile App Prize,Harry Wood	2013
+1630,DIY OSM PBF vector tiles,Norbert Renner	2013
+10:00	A consumer mapping app built entirely on open code and open data	Mike Cunningham	2014
+10:30	OpenStreetMap Data Wrangling for Spatial Analysis and Professional Use	Stefan Keller	2014
+11:30	How Corporations Identify Opportunities for OSM Contributions: A Baseline Belief in the Community's Mission	Jen Asbury	2014
+12:00	OSM Quality Assurance thru cross checking statistics and external datasets	Christian Quest	2014
+12:30	Making the world computable using Wolfram Technologies and OpenStreetMap data	Francisco Javier Rodríguez Arias; Nicolás Lichtmaier	2014
+14:30	Leveled up mapping with WorldView-3	Kevin Bullock	2014
+15:00	OSM on wheels	Nicole Beringer	2014
+15:30	Putting Big Data on the Map	Sebastian Mattheis	2014
+16:00	Transporte público al alcance de todos	Julián Perelli	2014
+17:00	Tangram: an open-source WebGL engine for real-time 2D and 3D maps	Brett Camper	2014
+17:30	OpenStreetMap and Telenav; Past, Present And Future	Martijn van Exel	2014
+18:00	Caminos y accesos Nacionales Para el Control y Fiscalización del Bosque y la Tierra - ABT	Oscar Sergio Miranda	2014
+18:30	OpenStreetMap como una herramienta para la gestión ambiental en Brasil	Pedro Ferraz Cruz	2014
+10:00	The state of OpenStreetMap in South America: A computational and visual analysis	Sterling Quinn	2014
+10:30	Public Health Mapping in Nigeria with OSM	Rafael Avila Coya	2014
+11:00	Posicionando a Río Chico en el mapa. Experiencia de mapeo colectivo con alumnos del Centro de Educación Media Rural de Río Chico, provincia de Río Negro, 	Fernando Raffo; Fernando Javier Umaña; Alumnos del CEM	2014
+12:00	The Long Tail of OpenStreetMap	Harry Wood	2014
+15:00	Mapillary - street level photos for OSM directly in iD	Peter Neubauer	2014
+15:30	French "BANO" address database project: why and how a community initiative get endorsed by a government agency	Pierre Pezziardi; Christian Quest	2014
+15:30	This year with HOT	Harry Wood	2014
+15:30	More than Just Data	Frederik Ramm	2014
+15:30	El uso de OSM para la identificación de Nucleos Poblados	Fernando Pino; Martin Moroni; Leandro Stryjek	2014
+15:30	Mapa Ecológico, onde os viajantes se encontram!	José Linhares da Silva	2014
+15:30	Espace OSM Francophone	Severin Menard	2014
+18:00	Wikimaps Expedition	Susanna Ånäs	2014
+18:00	Comunidades libres: organización y anarquía	Mauricio Miranda	2014
+10:00	Crowd Sourcing Canadian Postal Codes	Ervin Ruci	2014
+10:30	ScoutSigns: automatic road sign collection during navigation and analysis via JOSM	Beata Jancso	2014
+11:30	Future and possible improvement of S3DB definition	Marek Strassenburg Kleciak	2014
+12:00	Helping build the best map in the world	Alex Barth	2014
+14:30	Behind the Scenes of OSM Inspector	Frederik Ramm	2014
+15:00	Extracting building height using OSM building footprints and open LiDAR data	Yuriy Czoli	2014
+15:30	Can Global Navigation Satellite System (GNSS) change a way of mapping?	Hiroshi Miura	2014
+16:00	Dutch address and building import	Henk Hoff; Johan de Ruijter	2014
+17:00	Offline Community Mapping in the Amazon with iDEditor	Gregor MacLennan	2014
+17:30	3D Applications for OSM data	Robert Buchholz	2014
+18:00	Statistics for local communities	Joost Schouppe	2014
+9:30am,The Fourteen-Billion Dollar Map_ or Cartography in a Rapidly Changing City_ and why it matters,Ambassador Allan Mustard	2016
+10:00am,OpenStreetMap Analytics,Cristiano Giovando	2016
+10:00am,OpenSolarMap_ Crowdsourcing and machine learning to classify roofs,Michel Blancard	2016
+10:30am,Nicaragua's new crowd-sourced bus map_ Lessons learnt,Eduardo Augusto Mayorga;Felix Delattre	2016
+10:30am,A love-letter to OSM_ Greetings from Brussels,Pieter Brusselman	2016
+11:30am,Energise your community with focused projects,Brian Prangle	2016
+11:30am,OSM goes indoors_ Why SNCF Transilien mapped 388 train stations with OpenStreetMap,Cynthia Gutton	2016
+12:00pm,Investing in OSM communities to build resilience,Vivien Deparday	2016
+12:00pm,OSM goes indoors_ Usages, tools and prospects,Antoine Riche;Adrien Pavie	2016
+12:30pm,Vector tiles from OpenStreetMap,Lukas Martinelli	2016
+12:30pm,Open imagery matters_ Remote mapping with OpenAerialMap,Daniel da Silva	2016
+2:10pm,A map of OpenStreetMap,Mikel Maron	2016
+2:10pm,State of OSRM,Johan Uhle	2016
+2:40pm,WeeklyOSM_ Why how what where and where we go,Manfred Reiter;Laura Barroso	2016
+2:40pm,Converting a regular carto project to vector tiles_ OSM-carto case study,Rory McCann	2016
+3:10pm,Is she a part of your community?,Srravya C	2016
+3:10pm,SQL all the things_ Exposing OSM data services to PostgreSQL users,Jorge Sanz	2016
+4:10pm,Gardening OSM data with Overpass API,Roland Olbricht	2016
+4:40pm,Tiles under heavy artillery_ Serving one billion maps per month,Loic Ortola	2016
+5:10pm,State of the licence,Simon Poole	2016
+5:10pm,A stroll through the hidden corners of Taginfo,Jochen Topf	2016
+9:30am,Trending Places on OpenStreetMap,Stefan Keller	2016
+9:30am,The World We Want_ OpenStreetMap and the Sustainable Development Goals,Tyler Radford	2016
+10:00am,Using big data to help us improve the map,Beata Jancso	2016
+10:00am,Building large-scale crowdsourcing communities with the Humanitarian OpenStreetMap Team,Martin Dittus	2016
+10:30am,Tracking OpenStreetMap changes_ Merging changeset and metadata together for improved change tracking,Dylan Moriarty	2016
+10:30am,State of West Africa,Mohamet Lamine N'Diaye;Dibloni Innocent Soungalo	2016
+11:30am,Camp-mapping in Greece,Henk Hoff	2016
+11:30am,MapContrib_ Thematic OpenStreetMap contribution,Guillaume Amat	2016
+12:00pm,OpenSchoolsKenya,Zacharia Muindi	2016
+12:00pm,The minimalist OSM Building Editor,Jan Marsch	2016
+12:30pm,Mapping Ireland's 61_000 administrative boundaries,Rory McCann	2016
+12:30pm,Portable OSM_ Into the disconnected wilds,Emily Eros	2016
+2:00pm,Watching for vandalism,Sajjad Anwar	2016
+2:00pm,TeachOSM_ Harnessing the power of OpenStreetMap for geography education,Maggie Cawley	2016
+2:30pm,Trace from Space_ International version,Kevin Bullock	2016
+2:30pm,Map it forward_ Incorporating OSM into the universities curriculum,Vasanthi Hargyono	2016
+3:00pm,OpenStreetMap US_ The real McCoy,Drishtie Patel;Alyssa Wright;Ian Dees;Alex Barth;Martijn van Exel	2016
+3:00pm,OpenStreetMap for educational purposes,Louis-Julien de la Bouëre	2016
+4:00pm,Empowering women through OpenStreetMap in Mali,Astou Nathalie Sidibe	2016
+4:00pm,What where... when! Let's add another dimension with OpenEventDatabase,Christian Quest	2016
+4:30pm,Building a digital humanitarian society in Pakistan_ A perspective,Usman Latif	2016
+4:30pm,OSM for traffic simulation,Michael Zilske	2016
+5:00pm,Comparing OSM data and Brussels local government data,Marc Ducobu	2016
+5:00pm,Railways at OpenStreetMap,Michael Reichert	2016
+10:00,Connecting the dots, Arun Ganesh	2017
+10:30,OSM in Aizuwakamatsu city_ Construction of a hazard map,Jun Meguro	2017
+10:30,Mobile app development with routing and voice navigation,Taro Matsuzawa	2017
+11:00,How to build up an OSM Community,Anisa Kuci	2017
+11:30,Mapping with a time dimension,Daan van Ramshrost	2017
+12:00,New opportunities for understanding the ancient coastline,Georgia Marina Andreou	2017
+2:10,A navigable OSM map of Canada? Sooner than you think!,Frederic Julien;Brian Lau;Martijn van Exel	2017
+2:10,Challenges in geonames and address extraction,Stefan Keller	2017
+2:40,High precision mapping with streetlevel imagery,Oindrila Gupta	2017
+2:40,One road goes a long way_ measuring the impact of maps on fighting FGM in Tanzania,Egle Marija Ramanauskaite	2017
+3:10,Jungle Bus_ Public transport networks mapping made easy,Florian Lainez	2017
+3:10,Totsukawa_ After the heavy rainfall disaster,Yuichiro Nishimura	2017
+4:10,Validating OpenStreetMap,Arun Ganesh	2017
+4:10,Before maturity comes puberty,Ilya Zverev	2017
+4:40,OSM history analysis using big data technology,Martin Raifer	2017
+4:40,The diagrams of OpenStreetMap,Harry Wood	2017
+5:10,Analyzing positional accuracy of pois using spatial association rule learning,Alireza Kashian	2017
+5:10,Challenges of open data in Japanese public transport,Masaki Ito	2017
+9:30,Taking on responsibility for OSM data,Daniel Kastl	2017
+9:30,Senegal_ Extending the use of of OpenStreetMap,Mohamet Lamine NDIAYE	2017
+10:00,MapRoulette_ One million corrections and beyond,Martijn van Exel	2017
+10:00,The Sri Lankan government and OSM,S Suthakaran	2017
+10:30,AI-assisted road tracing for OpenStreetMap,Drishtie Patel;Ming Gao	2017
+10:30,Vehicle position visualization project in heavy snow zone,西本浩幸	2017
+11:30,Open source street addresses,Doug Rinckes	2017
+11:30,OSM Bangladesh_ Bringing scattered OSM activities under single platform,Ahasanul Hoque	2017
+12:00,Hackers Against Natural Disasters,Gael Musquet;Loïc Ortola	2017
+12:00,Solving challenges using street level imagery in India,Shravan Shah	2017
+12:30,MapCampaign_ Manage large mapping projects while leveraging local knowledge,Paul Uithol	2017
+12:30,Pic4Carto_ precise remote mapping with open street-level pictures,Adrien Pavie	2017
+2:00,京都と東京の月間マッピングパーティー,Yasunari Yamashita	2017
+2:00,Mapping efforts in an unsurveyed land_ Koorachundu village panchayat experience,Jaisen Nedumpala	2017
+2:30,日本の美術館・博物館_図書館フロアガイドにみる空間属性記述の使用傾向––語句のゆらぎとピクトグラムのランキング,阿児雄之	2017
+2:30,Ask the audience - live polling,Rob Nickerson	2017
+3:00,OpenStreetMapデータを用いた触地図自動作成システムの開発 ―縮尺に応じた表示内容変更機能の実装―,馬場　千晴	2017
+3:00,OSM seen from a GIS researcher_ experiences and perspectives,Marco Minghini	2017
+4:00,Telemetry_ global traffic and OSM,Lily Chai	2017
+4:00,Effort of contribution of OSM Niger,Samaila Alio Mainassara	2017
+4:30,OpenStreetMap Carto,Paul Norman	2017
+4:30,State of the CrisisMapping in Japan,Taichi FURUHASHI	2017
+10:00,OpenStreetMap—Now and into the Future,Kate Chapman;Heather Leson	2018
+10:30,Can we validate every change on OSM?,Lukas Martinelli (Mapbox)	2018
+10:30,Making Maps Without Database,Thomas Skowron	2018
+11:30,Interpreting Imagery for OpenStreetMap,Chad Blevins	2018
+11:30,OpenMapTiles: Vector tiles from OpenStreetMap,Petr Pridal;Jiri Komarek (Klokan Technologies)	2018
+11:30,Qt to create OSM-based apps,Paolo Angelelli (The Qt Company)	2018
+12:00,Advertising mapping : using OpenStreepMap for the protection of landscape,Paul Desgranges (Grenoble (France) group of OSM contributors)	2018
+12:00,Large Scale Deep Learning for Map Making,Alina Negreanu;Bogdan Gliga (Telenav)	2018
+12:30,An excursion in to the world of OSM tagging presets,Simon Poole	2018
+12:30,How Deep Learning could help to improve OSM Data Quality ?,Olivier Courtin (DataPink)	2018
+14:10,Addressing addresses,Sarah Hoffmann	2018
+14:10,The Belgian perspective to building OpenStreetMap community,Ben Abelshausen;Joost Schouppe (OpenStreetMap Belgium)	2018
+14:40,2_ 4_ 6_ 8_ Here's How We Interpolate,Julian Simioni (geocode.earth)	2018
+14:40,A new approach to garner prolific contribution in OpenStreetMap,Kshitiz Khanal (Kathmandu Living Labs)	2018
+15:10,OsmAnd making live maps update,Victor Shcherb (OsmAnd)	2018
+15:10,Building up the Microsoft Open Maps Team,Oisin Herriott (Microsoft)	2018
+16:10,Lies_ damned lies_ and OSM statistics,Frederik Ramm	2018
+16:10,Verifying Our Edits,Bogdan Petrea;Armin Gheorghina (Telenav)	2018
+16:10,Corporate Cartography: How the sausage gets made,Paul Norman	2018
+16:40,An innovative approach to support OSM data generation,Emanuela Mihut (Phd Student (West University of Timisoara, Romania))	2018
+16:40,Mapping Competition with Focus on Quality: Lesson Learned,Yantisa Akhadi (Humanitarian OpenStreetMap Team)	2018
+17:10,Pinpointing the power grid,Sajjad Anwar (Development Seed)	2018
+17:10,Improving OSMCha for the community,Wille Marcel Lima Malheiro	2018
+17:40,Get involved in the OpenStreetMap Foundation,Gregory Marler;OSMF Working Groups	2018
+9:30,Alternative perspectives through artistic interpretations,Sebastian Meier;Hans Hack (Maptime & Vislab;Hans Hack)	2018
+9:30,What's up with the public transport,Ilya Zverev (MAPS.ME)	2018
+9:30,Coordinating improved communication between the academic and OpenStreetMap communities,Peter Mooney;Joost Schouppe;Frank Ostermann	2018
+11:30,OSM and the European agenda,Vlado Cetl (European Commission Joint Research Centre)	2018
+11:30,The use of OSM in public transport in Helsinki Finland,Markku Huotari (Helsinki Region Transport (HSL))	2018
+11:30,Human-Centered Data Science and OpenStreetMap: Contributor-Centric OpenStreetMap Analysis Infrastructure,Jennings Anderson	2018
+11:30,Some Location Intelligence from OSM,Jaak Laineste (CARTO)	2018
+12:30,Comprehensive OpenStreetMap History Data Analyses- for and with the OSM community,Michael Auer;Melanie Eckle;Sascha Fendrich;Fabian Kowatsch;Sabrina Marx;Martin Raifer;Moritz Schott;Rafael Troilo;Alexander Zipf	2018
+14:30,Flying ferries and moving pavements? Pedestrian routing on rare modes of transport,Guillaume Rischard	2018
+14:30,Investigating the OSM mapping process after disasters: OsmEventAnalyst and its application for the 2016 Italian earthquakes,Luca Delucchi;Marco Minghini	2018
+16:00,A tale of two (mapping) cities,Alsino Skowronnek;Michele Ferretti (Maptime)	2018
+16:30,OSM Community Grants: sharing experiences,Rebecca Firth (Humanitarian OpenStreetMap Team)	2018
+17:00,Working with the Community,Ryan Peterson (Apple, Inc.)	2018
+9:30,Completing the Map with Street-level Imagery,Christopher Beddow (Mapillary)	2018
+9:30,Road Completion in Belgium - Mapping & verifying *all* the roads,Ben Abelshausen (OSM Belgium)	2018
+10:00,Pic4Review : fun OSM editing based on street pictures,Adrien Pavie (Entrepreneur in geomatics)	2018
+10:00,Going to Production with OpenStreeetMap at Microsoft,Jubal Harpster (Microsoft)	2018
+10:30,Form & Map based Mobile OSM Tool for Field Survey and Validation,Kuo-Yu slayer Chuang (GeoThings Inc.)	2018
+10:30,Switch2OSM: A real enterprise context case study,Andrea Capata (Immobiliare.it)	2018
+11:30,The new Wheelmap: Joining forces in accessibility mapping – feat.: "I Wheel Share",Svenja Heinecke (Sozialhelden e.V.)	2018
+11:30,Making bot edits safe and acceptable,Yuri Astrakhan (Elastic)	2018
+12:00,Modding the OSM Data Model,Jochen Topf	2018
+12:00,Robot Tracers - Extraction and Classification at scale using & CNTK,Nikola Trifunovic (Microsoft)	2018
+12:30,Energy efficient routing with OSM,Arndt Brenschede	2018
+12:30,Reaching out to vulnerable communities in Turkey: BINA project,GÜLŞAH EKER;EZGİ ERYILMAZ (YER ÇİZENLER HERKES İÇİN HARİTACILIK DERNEĞİ)	2018
+12:30,Attracting students with Google Summer of Code,Tobias Knerr	2018
+14:00,openrouteservice - route the world dynamically,Nils Nolde (University of Heidelberg)	2018
+14:00,OSM enabled urban mobility services for the city of Yangon (Myanmar),Roberta Castelli (5T srl)	2018
+14:30,Routing on rails with OpenStreetMap,Michael Reichert	2018
+14:30,Community Mapping for Refugees in Uganda,Geoffrey Kateregga (MapUganda)	2018
+15:30,OSM at Facebook,Drishtie Patel (Facebook)	2018
+15:30,DRONEBIRDs are go!,Taichi FURUHASHI (Aoyama Gakuin University)	2018
+16:00,Indonesia Road Mapping: Challenges and Opportunities,Wulansari Khairunisa (Humanitarian OpenStreetMap Team Indonesia)	2018
+16:00,3D Beyond Buildings,Tobias Knerr	2018
+09:30,Opening,SotM Working Group	2019
+10:00,Keynote: Open up! Why digital mobility needs participation,Christian Förster;Dietmar Seifert	2019
+10:30,Keynote,Karen M. Sandler	2019
+11:30,Get to know OSGeo and how OSGeo is connected to OpenStreetMap,Astrid Emde	2019
+11:30,Data Quality and Feature Extraction at scale with RoboSat.pink,Olivier Courtin	2019
+12:00,Keepin' it fresh (and good)! - Continuous Ingestion of OSM Data at Facebook,Kevin Ventullo;Christopher Klaiber	2019
+12:00,Human Mapping with Machine Data,Christopher Beddow;Edoardo Neerhut	2019
+12:30,Driving South East Asia Forward with OpenStreetMap,Jinal Foflia	2019
+12:30,Assisted Intelligence - How we map with the support of new technologies,Felix Delattre;Surabhi Singh	2019
+14:00,ODbL license compatibility,Kathleen Lu	2019
+14:30,Communication and Knowledge Transfer in OSM,Hanna Krüger	2019
+14:30,OsmInEdit: a simple indoor editor,Thomas Sontag;Andreas Dirks;Hannes Geißelmann;Adrien Pavie	2019
+15:00,Past and Future of the OSMF Membership Working Group,Michael Spreng	2019
+15:00,Observe - offline;cross-platform field mapping tool for OpenStreetMap,Sajjad Anwar	2019
+16:30,OSM Data: From Digital to Physical Design,Yantisa Akhadi	2019
+17:00,CyclOSM; a bicycle oriented render for every cyclist,Lucas Verney;Florimond Berthoux	2019
+17:00,VR Map: Using OSM Data In a WebVR Environment,Robert Kaiser	2019
+17:30,How to use OpenStreetMap data with the Desktop GIS QGIS,Astrid Emde	2019
+17:30,Hikar - OSM Augmented Reality for Walkers across Europe,Nick Whitelegg	2019
+09:30,Flexible Routing with GraphHopper,Peter Karich	2019
+09:30,Mapathon; mapathon; mapathon!,Séverin Menard;Nicolas Chavent	2019
+10:00,Imagery Solutions in OpenStreetMap,Kevin Bullock	2019
+10:00,OSMF local chapters in countries of the Global South what can we learn from OSM associations dynamics in French-speaking southern countries of Africa and the Caribbean?,Séverin Menard;Nicolas Chavent	2019
+10:30,Tales from the Tasking Manager,Ramya Ragupathy;Wille Marcel Lima Malheiro;Felix Delattre	2019
+11:30,Meet an OpenStreetMapper,Gregory Marler	2019
+11:30,Our Falkirk: Mitigating the Impacts of Poverty using OSM Data Themes,Alison Moon	2019
+12:00,Customizing Search for Special-Interest Maps,Sarah Hoffmann	2019
+12:00,OSM Quality Mapping: Metrics to monitor Buildings outbounds,Pierre Béland	2019
+12:30,Is your OSM App spying on you?,Thomas Skowron	2019
+12:30,Bringing Validation to Users: Integrating Quality Assurance Checks into Map Editors,Matthew Gibb;Clarisse Abalos	2019
+14:00,What's behind JOSM?,Vincent Privat	2019
+14:00,Spatial indexes for OSM in PostGIS,Felix Kunde	2019
+14:30,Mapping solar panels can save megatons of CO2,Dan Stowell;Jerry Clough	2019
+15:00,National Trust - Managing a Path inventory in OSM: Towards an Open Paths standard in OSM for the UK,Huw Davies	2019
+15:00,OSM data processing with PostgreSQL/PostGIS,Jochen Topf	2019
+15:30,Collaborative cartography of cycling infrastructure for route and thematic maps in Medellin; Colombia,Carolina Ortega Espinosa	2019
+16:30,Notes: Can we do better. Experiences and Ideas from the Frontline,Chris Fleming	2019
+16:30,Mapper's privacy,Roland Olbricht	2019
+17:00,Is the OSM data model creaking?,Martin Lucas-Smith	2019
+17:00,Teams for OpenStreetMap,Marc Farra	2019
+17:30,Broken Promises and Technical Difficulties,Ilya Zverev	2019
+09:30,Osmose-QA : MapCSS; OpenData and Mapillary,Frédéric Rodrigo	2019
+09:30,OSM2World: 3D OSM in your browser,Tobias Knerr	2019
+09:30,The Next Generation of Mappers: Learning from YouthMappers,Jessica Bergmann	2019
+09:30,OpenStreetMap and Wikidata: Awesome Together,Eugene Alvin Villar;Edward Betts	2019
+10:00,Routing for humans,Sebastian Ritterbusch	2019
+10:00,OpenDatathon activities in Japan,Shinji Enoki	2019
+10:30,Mapping Mobility in Stockport,Sam Milsom	2019
+10:30,OpenStreetMap in Croatia,Hrvoje Bogner	2019
+11:30,Caretography - Mapping Difficult Issues with OpenStreetMap during Difficult Times,David Garcia;Martin Dittus	2019
+11:30,Integrating and validating open data in OSM using street pictures,Adrien Pavie	2019
+11:30,New processes to agree on tagging suggestions and their interaction with the editing software available on openstreetmap.org,Roland Olbricht	2019
+12:00,Introduce OpenPlaceReviews and connect to OpenStreetMap,Victor Shcherb	2019
+12:30,Access to Prosperity: Quantifying Infrastructure Impact With OSM,Davey Lovin	2019
+14:00,Pedestrian routing in complex areas: the case of Paris railway stations,Antoine Riche	2019
+14:00,Norway: Successful deployment of OSM in Public Transport,Johan Wiklund	2019
+14:30,Automatically annotate a pedestrian route with OSM landmarks,Frédéric Rodrigo	2019
+14:30,Public Transport Navigation using OpenStreetMap by OsmAnd,Victor Shcherb;Eugene Kizevich	2019
+15:00,From car routing to train routing,Denis Cheynet	2019
+15:00,OSM Vector Tiles in custom coordinate systems,Jiri Komarek	2019
+09:00,Bridging the Map? Exploring Interactions between the Academic and Mapping Communities in OpenStreetMap,A. Yair Grinberger; Marco Minghini; Levente Juhász; Peter Mooney; Godwin Yeboah	2019
+10:00,Analysis of OSM data through OSM-Notes user posting,Toshikazu Seto; Hiroshi Kanasugi; Yuichiro Nishimura	2019
+10:30,A novel application of models of species abundance to better understand OpenStreetMap Community structure and interactions,Peter Mooney	2019
+11:30,Towards Scalable Geospatial Remote Sensing for Efficient OSM Labeling,Rui Zhang; Marcus Freitag; Conrad Albrecht; Siyuan Lu; Wei Zhang	2019
+12:00,Estimating latent energy demand of buildings,Nikola Milojevic-Dupont; Peter-Paul Pichler; Lynn H. Kaack; Steffen Lohrey; Felix Creutzig	2019
+12:30,Client-side route planning: preprocessing the OpenStreetMap road network for Routable Tiles,Harm Delva; Julián Andrés Rojas Meléndez; Ben Abelshausen; Pieter Colpaert; Ruben Verborgh	2019
+14:00,Intrinsic assessment of OpenStreetMap contribution patterns through Exploratory Spatial Data Analysis,Marco Minghini; Daniele Oxoli; Francesco Frassinelli; Maria Antonia Brovelli	2019
+14:30,Corporate Editors in the Evolving Landscape of OpenStreetMap: A Close Investigation of the Impact to the Map & Community,Jennings Anderson; Dipto Sarkar; Leysia Palen	2019
+15:00,Exploring the Effects of Pokémon Go Vandalism on OpenStreetMap,Levente Juhász; Hartwig Hochmair; Sen Qiao; Tessio Novack	2019
+15:30,Analyzing the spatio-temporal patterns and impacts of large-scale data production events in OpenStreetMap,A. Yair Grinberger; Moritz Schott; Martin Raifer; Rafael Troilo; Alexander Zipf	2019
+16:30,Development after Displacement: Using OSM data to measure SDG indicators at informal settlements,Jamon Van Den Hoek, Hannah Friedrich, Anna Ballasiotes, David Wrathall	2019
+17:00,Analysis of OpenStreetMap data quality at different stages of a participatory mapping process: Evidence from informal urban settings,Godwin Yeboah; Rafael Troilo; Vangelis Pitidis; João Porto de Albuquerque	2019
+17:30,Assessing the Completeness of Urban Green Spaces in OpenStreetMap,Christina Ludwig; Robert Hecht; Sven Lautenbach	2019
+	2019
+	2019
+10:20,Winds of Change in OpenStreetMap,Allan Mustard	2020
+10:45,Drones for Community Mapping,Leigh Lunas	2020
+10:45,4 County OSM Digitization Liberia – Lesson Learned,Tri Selasa	2020
+11:30,OSM Routing Evaluation,Yantisa Akhadi	2020
+11:30,Health Facilities Import,Sowmya Nayani	2020
+12:15,Ranks for Rendering,Michael Reichert	2020
+12:15,Economy_Human_and_Policy_Impact_on_Mapping_in_Public_Sector,Asish Abraham Joseph	2020
+15:00,The Map in 360,Said Turksever	2020
+15:00,The State of OpenStreetMap in Africa,Geoffrey Kateregga	2020
+15:45,Buildings are the new Streets,Danijel Schorlemmer;Felix Delattre	2020
+15:45,Overwiew on OpenStreetMap Togo Community,Ata Franck Akouete	2020
+16:30,Mapcampaigner Redesign: The Data Quality Monitor For OSM,Jorge Martinez	2020
+16:30,Creating an open data ecosystem for reviews of places and more,Dina Carabas	2020
+17:15,There might have been a misunderstanding...,Frederik Ramm	2020
+17:15,OSM data assessment in the area of Athens - Greece,Stathis G. Arapostathis	2020
+18:00,An Incomplete History of Companies and Professionals in OpenStreetMap,Mikel Maron	2020
+18:00,Turkish Law on National Geospatial Data and Its Implications Regarding OSM and the Community,Can Ünen;Orkut Murat Yılmaz	2020
+20:00,Visualizing Gender of Street Names in Brazil,Bernardo Loureiro	2020
+20:00,Participatory Budgeting & Mapping with citizens and government,Erica Hagen;Lucy Fondo	2020
+20:45,Send me a Postcard,Ilya Zverev	2020
+20:45,Sustainability and OSM for Development,Erica Hagen	2020
+21:30,Building Stronger Communities Together - the Local Chapters & Community Working Group,Maggie Cawley	2020
+21:30,MapImpact: Mapping and social researchs by students in Cusco Perú,Regina Campos Cc.	2020
+22:15,Meet an OpenStreetMapper,Gregory Marler	2020
+10:20,Map-Less Map Editors,Ilya Zverev	2021
+10:45,Journey to improving the Navigation experience for Grab Driver partners using OSM,Jinal Foflia;aparna alla	2021
+11:30,From global to local OSM mapping_CartONG’s overall OSM based strategy to support humanitarian response in refugee camp,Martin Noblecourt;Manon Viou;Olivier Ribiere	2021
+12:15,MapaTanda: Mapping for and with the Ageing Population,Kris Libunao	2021
+13:00,3D Rendering with OSM2World,Tobias Knerr	2021
+15:00,OSM data_Privacy Risks and GDPR compliance,Robert Riemann	2021
+15:45,Boundaries_Places and the Future of Tagging,Sarah Hoffmann	2021
+16:30,Introduction and review of MapComplete,Pieter Vander Vennet	2021
+17:15,Makina Maps,Frédéric Rodrigo	2021
+20:00,Linting the map together_Collaborations of Mapbox Data RAVE and OpenStreetMap Communities,Vlada Boitsik	2021
+20:45,Improving OSM Data in Coastal Communities,Monica Brandeis	2021
+10:00,How to map a city's public transport during a pandemic,Christoph Hanser	2021
+10:45,With Great Power Comes Great Responsibility,Frederik Ramm	2021
+11:30,Collection and use of data about entrances of buildings,Tuukka Hastrup;Johan Lindqvist	2021
+12:15,Mapping unmapped towns in Turkey by building and enlarging OpenStreetMap Turkey community,Said Turksever;Oğuzhan Er	2021
+15:00,How StreetComplete handles edits,Tobias Zwick	2021
+15:45,News from osm2pgsql,Jochen Topf	2021
+16:30,Mapping Heritage in Ireland - A Journey,Anne-Karoline Distel	2021
+17:15,MapLibre - community driven Mapbox GL fork,Petr Pridal	2021
+18:00,OpenStreetMap and the neglected pedestrian,Edoardo Neerhut	2021
+20:00,OpenStreetMap Standard Layer_Who uses it,Paul Norman	2021
+20:45,Community growth_What we learned about improving the membership and diversity of OSM Kenya through the community impact microgrants,Laura Mugeha	2021
+10:00,NLMaps Web: A Natural Language Interface to OpenStreetMap,Simon Will	2021
+10:45,What has machine learning ever done for us,Peter Mooney	2021
+11:30,Towards a framework for measuring local data contribution in OpenStreetMap,Maxwell Owusu	2021
+12:15,Community Interactions in OSM editing,Jennings Anderson;Dipto Sarkar	2021
+13:00,Towards understanding the temporal accuracy of OpenStreetMap: A quantitative experiment,Levente Juhász	2021
+15:00,Dealing with Quantity vs Quality,Enock Seth Nyamador	2021
+15:00,A proposal for a QGIS Plugin for Spatio-temporal analysis of OSM data quality: the case study for the city of Salvador_Brazil,Elias Nasr Naim Elias	2021
+15:45,Introducing OpenStreetMap User Embeddings: Promising Steps Toward Automated Vandalism and Community Detection,Jennings Anderson;Yinxiao Li	2021
+16:30,A new map renderer for OSM_Rasters_vectors_language and internationalization,Brandon Liu	2021
+16:30,An Automated Approach to Identifying Corporate Editing Activity in OpenStreetMap,Veniamin Veselovsky	2021
+17:15,Overpass API since 10 years,Dr. Roland Olbricht	2021
+17:15,Involvement of OpenStreetMap in European H2020 Projects,Damien Graux;Thibaud Michel	2021
+18:00,Why OSM is not known more widely - about consequences of not enforcing attribution requirements,Mateusz Konieczny	2021
+20:00,Building a global outdoor map,Jiri Komarek	2021
+20:45,A/B Street_Using OSM for transportation advocacy,Dustin Carlino	2021
+10:30,State of Independence,Richard Fairhurst	2022
+11:30,10 Years Of MapRoulette,Martijn van Exel	2022
+12:00,Entry-level Mobile Mapping,Kristen Tonga	2022
+12:00,OSM Carto as vector tiles,Jiri Komarek;Wladimir Szczerban	2022
+12:30,Admin Boundary Conflation Tool,Branko Kokanovic	2022
+12:30,usability testing with three people - how to discover why mappers are confused by your software,Mateusz Konieczny	2022
+14:30,Innovating on derivative OpenStreetMap datasets,Brandon Liu	2022
+15:00,None: a story of data that isn't there,Gala;Simona Ciocoiu	2022
+15:00,OpenStreetMap data for climate change response initiatives,Luc Kpogbe	2022
+15:30,Evolving the OSM Data Model,Jochen Topf	2022
+15:30,Integrating OpenStreetMap in the local governance of Nepal,Aishworya Shrestha;Sushma Ghimire	2022
+16:30,What you map is not always what you get,Sarah Hoffmann;Richard Fairhurst	2022
+16:30,Mapping a Small Town,Christopher Beddow	2022
+17:00,UX for hyperlocal map in Southeast Asia,Low Ko Wee;Sriram Iyer	2022
+17:30,Inferring default speed limits,Tobias Zwick	2022
+17:30,maplibre-rs: Cross-platform Map Rendering using Rust,Max Ammann	2022
+09:30,OpenStreetMap in the Cloud,Sajjad Anwar	2022
+10:00,The MapOSMatic APIs - generate printable maps from your own application,Hartmut Holzgraefe	2022
+10:00,Building an OpenStreetMap Community Playbook,Sharon Omoja;Geoffrey Kateregga	2022
+10:30,Pedestrian and Bike Mapping in New York City,Ariel Kadouri	2022
+10:30,Linking OpenStreetMap and Wikidata: Case study of Taiwan's villages and rivers dataset,Dennis Raylin Chen	2022
+11:30,MapBuilder - The simplest OSM editorial tool,Nemanja Bracko	2022
+11:30,OpenStreetMap in schools: The case study of Bari,Ferdinando Traversa;Rosa Colacicco	2022
+12:00,10 Years iD Editor – The Road Ahead,Martin Raifer	2022
+12:00,Educational initiatives and platforms on OpenStreetMap: making open data more accessible,Michael Montani	2022
+12:30,Every Door and the Future of POI in OpenStreetMap,Ilya Zverev	2022
+14:30,How to kill OSM? Above all_change nothing,Florian Lainez	2022
+14:30,Digital Champions fighting Gender Based Violence in rural Tanzania with maps,Janet Chapman	2022
+15:00,OSMF Board AMA,Amanda McCann	2022
+15:00,Women Leadership in Mapping Riverside Communities in the Amazon Forest Using OSM,Ana Luísa Teixeira;Silvia Elena Ventorini;Natalia da Silveira Arruda	2022
+15:30,A review of Mapillary-generated map data and how accuracy compares across devices,Said Turksever	2022
+16:30,State of OSM in QGIS,Etienne Trimaille	2022
+17:00,Running OpenStreetMap.org - Today and Tomorrow,Grant Slater	2022
+17:00,Satellite Imagery for Social Good - Our Reflections,Shamilah Nassozi	2022
+17:30,Public Domain Map: Crowdsourcing the Future of Government Data,Jess Beutler;James McAndrew	2022
+17:30,Localization as an inclusion and participatory enabler research,Arnalie Vicario	2022
+09:00,Increasing OpenStreetMap Data Accessibility with the Analysis-Ready Daylight Distribution of OpenStreetMap: A Demonstration of Cloud-Based Assessments of Global Building Completeness 🎓,Jennings Anderson;Timmera Whaley Omidire	2022
+09:30,Crowdsourcing and virtual reality applications for peacekeeping: study cases in Mogadishu and Tripoli,Michael Montani	2022
+09:30,OSM Sidewalkreator - A QGIS plugin for automated sidewalk drawing for OSM 🎓,Kauê de Moraes Vestena	2022
+10:00,osm2streets: Street networks with detailed geometry,Dustin Carlino	2022
+10:00,Comparative Integration Potential Analyses of OSM and Wikidata – the Case Study of Railway Stations 🎓,Moritz Schott;Alishiba Dsouza	2022
+10:30,Exploring Human Bias and Effects of Training in OSM mapping: A Behavioral Experiment in Singapore,Shiyue Zhong	2022
+11:30,Routing not only for Prams,Roland Olbricht	2022
+11:30,Automated derivation of public urban green spaces via activity-related barriers using OpenStreetMap 🎓,Theodor Rieche	2022
+12:00,OSM & Trails: New Collaborations for Responsible Recreation,Maggie Cawley	2022
+12:00,Null Island - a node of contention in OpenStreetMap 🎓,Peter Mooney;Levente Juhász	2022
+14:30,OSM and indoor data,Clement Igonet	2022
+14:30,YouthMappers: A Hybrid Movement Design for the OpenStreetMap Community of Communities 🎓,Patricia Solis	2022
+14:55,Landmarks for accessible space – promoting geo-literacy through geospatial citizen science 🎓,Sagi Dalyot	2022
+15:00,The OpenStreetMap Use for Medical Humanitarian Operations by Médecins Sans Frontières,Jana Bauerova	2022
+15:30,Wikimedia Italia - What is it doing for the Italian OSM community,Anisa Kuci	2022
+15:30,Mapping crises_communities and capitalism on OpenStreetMap: situating humanitarian mapping in the (open source) mapping supply chain 🎓,Anne Lee Steele	2022

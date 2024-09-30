@@ -8,10 +8,9 @@ Created on Sun Aug 25 16:22:53 2024
 import os
 
 # Directory containing the text files
-directory = r'C:\D\PhD\Writing\J_OSMassessment\OSM_review\sotm\data'
+directory = r'.\sotm\data'
 # Output file
-output_file = r'C:\D\PhD\Writing\J_OSMassessment\OSM_review\sotm\combined_data.txt'
-output_file = r'C:\D\PhD\Writing\J_OSMassessment\OSM_review\sotm\combined_data_year.txt'
+output_file = r'.\sotm\combined_data_year.txt'
 
 # List to hold combined lines
 combined_lines = []
