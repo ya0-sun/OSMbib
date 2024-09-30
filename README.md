@@ -53,5 +53,13 @@ The directory contains SotM data:
 * [merged data list with Title-Author-Year](https://github.com/ya0-sun/OSMbib/blob/main/data/sotm/sotm_TI_AU_PY_merged.xlsx)
 
 ## Analysis 
+including: 
+* 0-documents_country_year
+* 1-affiliations
+* 2-author_affiliations
+* 3-coauthorship
+* 4-keywords
+* 5-history
+* 6-trendTopics
 
 
