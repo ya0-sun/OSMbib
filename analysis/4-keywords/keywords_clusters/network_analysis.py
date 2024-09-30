@@ -9,8 +9,8 @@ import pandas as pd
 import re
 
 # File paths
-txt_file_path = 'network.txt'  # Replace with your txt file path
-excel_file_path = 'network.xlsx'  # Replace with your desired Excel file path
+txt_file_path = 'network.txt'  
+excel_file_path = 'network.xlsx'  
 
 def parse_columns(row):
     # Convert the last four columns from right to left
