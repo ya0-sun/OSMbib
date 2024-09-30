@@ -4,8 +4,6 @@ This repo contains research data and interactive visualization of the paper:
 
 __Contributors, Topics, and Future Trends: A Deep Dive into 20 Years of OpenStreetMap Research__
 
-by Yao Sun, Liqiu Meng, Andres Camero, Stefan Auer, Xiao Xiang Zhu
-
 
 ## Interactive visualization 
 
