@@ -1,8 +1,6 @@
 # OSMbib
 
-This repo contains research data and interactive visualization of the paper: 
-
-__Contributors, Topics, and Future Trends: A Deep Dive into 20 Years of OpenStreetMap Research__
+This repo contains research data and interactive visualization of the OSM review paper. 
 
 
 ## Interactive visualization 
