@@ -2,7 +2,6 @@
 """
 Created on Sun Aug 25 16:22:53 2024
 
-@author: YS
 """
 
 import os
