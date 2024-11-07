@@ -18,11 +18,11 @@ This repo contains research data and interactive visualization of the OSM review
 [![Network clusters of keywords:](https://github.com/user-attachments/assets/317d612f-38c6-46ef-890b-fc4df0081b86 'Network clusters of keywords')](https://app.vosviewer.com/?json=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1EbZDFNeOB0pFYYCwtFcOSIrvx6kGutQO)
 
 
-### [Organizations' co-authorship network](https://app.vosviewer.com/?json=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D15MsOE_raelF922wzbXF4VC61yVk0hTyb)
+### [Organizations' co-authorship network](https://app.vosviewer.com/?json=https\%3A\%2F\%2Fdrive.google.com\%2Fuc\%3Fid\%3D1CXvU7ZT3QXlY-hxaguZ5xd0mdVmgTJE5)
 
 *68 organizations are selected with a minimum threshold of 10 documents.*
 
-[![Organizations' Co-Authorship Network:](https://github.com/ya0-sun/OSMbib/blob/main/img/organization.png 'Organizations Co-Authorship Network')](https://app.vosviewer.com/?json=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D15MsOE_raelF922wzbXF4VC61yVk0hTyb)
+[![Organizations' Co-Authorship Network:](https://github.com/ya0-sun/OSMbib/blob/main/img/organization.png 'Organizations Co-Authorship Network')](https://app.vosviewer.com/?json=https\%3A\%2F\%2Fdrive.google.com\%2Fuc\%3Fid\%3D1CXvU7ZT3QXlY-hxaguZ5xd0mdVmgTJE5)
 
 
 ### [Co-authorship network](https://app.vosviewer.com/?json=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1BZZPj4WQq477UoeBQhTDaV09ll5_daAl)
