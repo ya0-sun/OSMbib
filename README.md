@@ -20,9 +20,9 @@ This repo contains research data and interactive visualization of the OSM review
 
 ### [Organizations' co-authorship network](https://app.vosviewer.com/?json=https\%3A\%2F\%2Fdrive.google.com\%2Fuc\%3Fid\%3D1CXvU7ZT3QXlY-hxaguZ5xd0mdVmgTJE5)
 
-*68 organizations are selected with a minimum threshold of 10 documents.*
+*67 organizations are selected with a minimum threshold of 10 documents.*
 
-[![Organizations' Co-Authorship Network:](https://github.com/ya0-sun/OSMbib/blob/main/img/organization.png 'Organizations Co-Authorship Network')](https://app.vosviewer.com/?json=https\%3A\%2F\%2Fdrive.google.com\%2Fuc\%3Fid\%3D1CXvU7ZT3QXlY-hxaguZ5xd0mdVmgTJE5)
+[![Organizations' Co-Authorship Network:](https://github.com/ya0-sun/OSMbib/blob/main/img/organization.png 'Organizations Co-Authorship Network')](https://app.vosviewer.com/?json=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1CXvU7ZT3QXlY-hxaguZ5xd0mdVmgTJE5)
 
 
 ### [Co-authorship network](https://app.vosviewer.com/?json=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1BZZPj4WQq477UoeBQhTDaV09ll5_daAl)
