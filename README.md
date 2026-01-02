@@ -2,6 +2,8 @@
 
 This repo contains research data and interactive visualization of the OSM review paper. 
 
+The data and code that support the findings of the study are available at [Figshare repository](https://doi.org/10.6084/m9.figshare.27636516)
+
 
 ## Interactive visualization 
 
