@@ -5,10 +5,11 @@ This repo contains _interactive vowviewer visualization_ and _data&code_ that su
 **A Deep Dive into OpenStreetMap Research Since its Inception (2008-2024): Contributors, Topics, and Future Trends**  
     *by Yao Sun, Liqiu Meng, Andres Camero, Stefan Auer, and Xiao Xiang Zhu*
 
+
+## Data and Code 
 * The used softwares and steps for generating figures are explained here: [instructions](https://github.com/ya0-sun/OSMbib/tree/main/instructions.pdf) 
 
 * The data and code are also available at [Figshare repository](https://doi.org/10.6084/m9.figshare.27636516) 
-
 
 
 ## Interactive visualization 
