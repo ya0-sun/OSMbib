@@ -1,0 +1,36 @@
+If the same organization is listed under different names, such as with variations in location, it needs to be standardized.
+
+
+same: change
+University of Washington seattle				University of Washington    					
+
+
+
+not the same, same stats: do not count "system"
+
+University of Wisconsin System  				University of Wisconsin–Madison
+University of Minnesota Twin Cities  			University of Minnesota System
+University of Illinois Urbana-Champaign 		University of Illinois System
+University of Colorado Boulder 					University of Colorado System
+Purdue university system						Purdue University 
+state University system of Florida
+iit system
+
+
+
+diff stats: do not count "university" without sufix
+
+University of California Berkeyley				University of California System
+University of California Santa Barbara	
+
+arizona state university-tempe 					arizona state university
+arizona state university-downtown phoenix
+
+
+
+
+repeat and remove: 
+
+helmholz association
+swiss federal institutes of technology domain 
+

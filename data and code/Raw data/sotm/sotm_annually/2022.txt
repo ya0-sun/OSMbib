@@ -1,0 +1,53 @@
+Time,Title,Author
+10:30,State of Independence,Richard Fairhurst
+11:30,10 Years Of MapRoulette,Martijn van Exel
+12:00,Entry-level Mobile Mapping,Kristen Tonga
+12:00,OSM Carto as vector tiles,Jiri Komarek;Wladimir Szczerban
+12:30,Admin Boundary Conflation Tool,Branko Kokanovic
+12:30,usability testing with three people - how to discover why mappers are confused by your software,Mateusz Konieczny
+14:30,Innovating on derivative OpenStreetMap datasets,Brandon Liu
+15:00,None: a story of data that isn't there,Gala;Simona Ciocoiu
+15:00,OpenStreetMap data for climate change response initiatives,Luc Kpogbe
+15:30,Evolving the OSM Data Model,Jochen Topf
+15:30,Integrating OpenStreetMap in the local governance of Nepal,Aishworya Shrestha;Sushma Ghimire
+16:30,What you map is not always what you get,Sarah Hoffmann;Richard Fairhurst
+16:30,Mapping a Small Town,Christopher Beddow
+17:00,UX for hyperlocal map in Southeast Asia,Low Ko Wee;Sriram Iyer
+17:30,Inferring default speed limits,Tobias Zwick
+17:30,maplibre-rs: Cross-platform Map Rendering using Rust,Max Ammann
+09:30,OpenStreetMap in the Cloud,Sajjad Anwar
+10:00,The MapOSMatic APIs - generate printable maps from your own application,Hartmut Holzgraefe
+10:00,Building an OpenStreetMap Community Playbook,Sharon Omoja;Geoffrey Kateregga
+10:30,Pedestrian and Bike Mapping in New York City,Ariel Kadouri
+10:30,Linking OpenStreetMap and Wikidata: Case study of Taiwan's villages and rivers dataset,Dennis Raylin Chen
+11:30,MapBuilder - The simplest OSM editorial tool,Nemanja Bracko
+11:30,OpenStreetMap in schools: The case study of Bari,Ferdinando Traversa;Rosa Colacicco
+12:00,10 Years iD Editor – The Road Ahead,Martin Raifer
+12:00,Educational initiatives and platforms on OpenStreetMap: making open data more accessible,Michael Montani
+12:30,Every Door and the Future of POI in OpenStreetMap,Ilya Zverev
+14:30,How to kill OSM? Above all_change nothing,Florian Lainez
+14:30,Digital Champions fighting Gender Based Violence in rural Tanzania with maps,Janet Chapman
+15:00,OSMF Board AMA,Amanda McCann
+15:00,Women Leadership in Mapping Riverside Communities in the Amazon Forest Using OSM,Ana Luísa Teixeira;Silvia Elena Ventorini;Natalia da Silveira Arruda
+15:30,A review of Mapillary-generated map data and how accuracy compares across devices,Said Turksever
+16:30,State of OSM in QGIS,Etienne Trimaille
+17:00,Running OpenStreetMap.org - Today and Tomorrow,Grant Slater
+17:00,Satellite Imagery for Social Good - Our Reflections,Shamilah Nassozi
+17:30,Public Domain Map: Crowdsourcing the Future of Government Data,Jess Beutler;James McAndrew
+17:30,Localization as an inclusion and participatory enabler research,Arnalie Vicario
+09:00,Increasing OpenStreetMap Data Accessibility with the Analysis-Ready Daylight Distribution of OpenStreetMap: A Demonstration of Cloud-Based Assessments of Global Building Completeness 🎓,Jennings Anderson;Timmera Whaley Omidire
+09:30,Crowdsourcing and virtual reality applications for peacekeeping: study cases in Mogadishu and Tripoli,Michael Montani
+09:30,OSM Sidewalkreator - A QGIS plugin for automated sidewalk drawing for OSM 🎓,Kauê de Moraes Vestena
+10:00,osm2streets: Street networks with detailed geometry,Dustin Carlino
+10:00,Comparative Integration Potential Analyses of OSM and Wikidata – the Case Study of Railway Stations 🎓,Moritz Schott;Alishiba Dsouza
+10:30,Exploring Human Bias and Effects of Training in OSM mapping: A Behavioral Experiment in Singapore,Shiyue Zhong
+11:30,Routing not only for Prams,Roland Olbricht
+11:30,Automated derivation of public urban green spaces via activity-related barriers using OpenStreetMap 🎓,Theodor Rieche
+12:00,OSM & Trails: New Collaborations for Responsible Recreation,Maggie Cawley
+12:00,Null Island - a node of contention in OpenStreetMap 🎓,Peter Mooney;Levente Juhász
+14:30,OSM and indoor data,Clement Igonet
+14:30,YouthMappers: A Hybrid Movement Design for the OpenStreetMap Community of Communities 🎓,Patricia Solis
+14:55,Landmarks for accessible space – promoting geo-literacy through geospatial citizen science 🎓,Sagi Dalyot
+15:00,The OpenStreetMap Use for Medical Humanitarian Operations by Médecins Sans Frontières,Jana Bauerova
+15:30,Wikimedia Italia - What is it doing for the Italian OSM community,Anisa Kuci
+15:30,Mapping crises_communities and capitalism on OpenStreetMap: situating humanitarian mapping in the (open source) mapping supply chain 🎓,Anne Lee Steele

@@ -1,4 +1,0 @@
-osm data, openstreetmap data
-osm community, openstreetmap community, openstreetmap communities
-humanitarian response, humanitarian openstreetmap
-quality assurance, data quality

@@ -1,3 +1,0 @@
-osm, openstreetmap,
-map, maps, 
-building, buildings

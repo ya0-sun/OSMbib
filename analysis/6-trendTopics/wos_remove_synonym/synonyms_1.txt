@@ -1,5 +1,0 @@
-osm, openstreetmap,
-map, maps, 
-building, buildings
-crowdsourced, crowdsourcing
-web, web-based

@@ -1,0 +1,49 @@
+Time,Title,Author
+10:10-10:30,OpenStreetMap – Ready for business!,Dr.-Ing. Roger Müller
+10:30-10:50,How I built a location-based social app,John McKerrell
+10:50-11:10,OpenStreetMap Monetization,Christian O. Petersen
+11:10-11:30,OSM at AOL Local,Randy Meech
+12:00-12:20,OSM and the law: enemies, friends or something in between?,Katleen Janssen
+17:30-17:50,OSM on OLPC’s XO in Primary Schools,Philippe Rieffel
+12:00-12:20,Distributed bulk rendering on the Amazon cloud,Nogago
+12:20-12:40,Integrating Maps into OpenNMS Network Management,OpenNMS
+12:40-13:00,Taking GPS navigation from commercial maps to OSM,Skobbler
+13:00-13:20,Integrating Real-time Bus-Tracking with Pedestrian Navigation,National University of Ireland
+15:30-15:50,Who are the mappers and why do they map in OpenStreetMap?,Nama Raj Budhathoki;Muki Haklay;Zorica Nedovic-Budic
+15:50-16:10,OSM in a Mobile Augmented Reality Game,Jaak Laineste
+16:10-16:30,Data Validation of Crowd Sourced Data,Bob Chell
+16:30-16:50,Uncommon Operating Picture: Using OSM for Humanitarian Response,John Crowley
+15:30-15:50,Mapping for the Masses,Cloudmade
+15:50-16:10,Extend OSM with configurable solutions,geo.me
+16:10-16:30,Design, setup and management of spatial platform,Błażej Ciepłuch
+16:30-16:50,Resolution independent maps on the iOS platform,Curly Brackets
+17:50-18:10,Map Kibera – Mapping one of Africa’s largest slums,Mikel Maron
+12:20-12:40,From Arkansas to Afghanistan – Open data sharing and collaboration for better engagement,Kate Chapman
+09:40-10:00,State of OSM,Steve Coast
+10:00-10:20,OSM and the tyranny of place,Muki Haklay;Nama Raj Budhathoki
+10:20-10:40,From the Outside Looking In,Nick Black
+10:40-11:00,Local knowledge and global search,Matthew Quinlan
+12:00-12:20,Party Time! Good and bad ways to run mapping parties,Harry Wood
+12:20-12:40,Outreach to Non-Technical Communities,Thea Clay
+12:40-13:00,Libero Accesso… – mapping the accessibility,Simone Gadenz
+13:00-13:20,Maps for blind and visually impaired people,Lulu-Ann
+12:00-12:20,OSM without Delay,Matt Amos
+12:20-12:40,Efficient Processing of OSM XML using Java,Fangli Ying;Peter Mooney;Padraig Corcoran
+12:40-13:00,Tuning the Mapnik Rendering Chain,Frederik Ramm
+13:00-13:20,OSMTrack – Towards the best iPhone app for adding roads,Dmitri Toropov
+15:10-15:30,OSM and the Art of Motorcycle Maintenance,Martijn van Exel
+15:30-15:50,Tag Central: a Schema for OSM,David Earl
+15:50-16:10,Is OSM good enough for automotive ADAS apps?,Dmitri Toropov
+16:10-16:30,The Problem with Metadata,Charles Kennelly
+09:30-9:50,Can we look at your polygons?,Peter Mooney
+09:50-10:10,Corine and BMO Import – Conclusions,Emilie Laffray
+12:00-12:20,Geovelo, a route planner for bicycle,Gaël Sauvanet
+12:20-12:40,OpenTrailView: StreetView for paths and trails,Nick Whitelegg
+12:40-13:00,Ad-hoc Map Rendering on Mobile Devices,Jürgen Broß
+13:00-13:20,Ericsson Labs – A toolbox for Map Application Innovation,Richard Carlsson
+12:00-12:20,What I’d like to do with Mapnik,Steve Chilton
+12:20-12:40,Vernacular mapping and the ethics of what comes next,Joe Gerlach
+12:40-13:00,What I learned making a real map on real paper for real people and real money,David Earl
+13:00-13:20,MapOSMatic: City Maps for the Masses,Thomas Petazzoni;Maxime Petazzoni
+15:30-15:50,Grounding the OSM Project: The Humanitarian OSM Team in Haiti,Nicolas Chavent
+15:50-16:10,OSM Integrated with GeoCommons offline for Humanitarian Response,Kate Chapman
