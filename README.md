@@ -2,8 +2,9 @@
 
 This repo contains _interactive vowviewer visualization_ and _data&code_ that support the findings of our OSM review paper published in **IJGIS**: 
 
-**A Deep Dive into OpenStreetMap Research Since its Inception (2008-2024): Contributors, Topics, and Future Trends**  
-    *by Yao Sun, Liqiu Meng, Andres Camero, Stefan Auer, and Xiao Xiang Zhu*
+[**A Deep Dive into OpenStreetMap Research Since its Inception (2008-2024): Contributors, Topics, and Future Trends**](https://github.com/ya0-sun/OSMbib/tree/main/A_Deep_Dive_into_OpenStreetMap_Research_2008-2024_IJGIS.pdf.pdf)
+
+*by Yao Sun, Liqiu Meng, Andres Camero, Stefan Auer, and Xiao Xiang Zhu*
 
 
 ## Data and Code 
