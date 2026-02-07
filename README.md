@@ -1,11 +1,8 @@
 # OSMbib
 
-This repo contains _interactive vowviewer visualization_ and _data&code_ that support the findings of our OSM review paper published in **IJGIS**: 
+This repo contains _interactive vowviewer _data&code_ and visualization_ supporting the findings of the paper: 
 
-[**A Deep Dive into OpenStreetMap Research Since its Inception (2008-2024): Contributors, Topics, and Future Trends**](https://github.com/ya0-sun/OSMbib/tree/main/A_Deep_Dive_into_OpenStreetMap_Research_2008-2024_IJGIS.pdf.pdf)
-
-*by Yao Sun, Liqiu Meng, Andres Camero, Stefan Auer, and Xiao Xiang Zhu*
-
+*Sun, Y., Meng, L., Camero, A., Auer, S., & Zhu, X. X. (2026). A deep dive into OpenStreetMap research since its inception (2008–2024): contributors, topics, and future trends. International Journal of Geographical Information Science, 1–55.* [https://doi.org/10.1080/13658816.2026.2613347](https://doi.org/10.1080/13658816.2026.2613347)
 
 ## Data and Code 
 * The used softwares and steps for generating figures are explained here: [instructions](https://github.com/ya0-sun/OSMbib/tree/main/instructions.pdf) 
@@ -41,4 +38,20 @@ This repo contains _interactive vowviewer visualization_ and _data&code_ that su
 
 [![Network clusters of keywords:](https://github.com/user-attachments/assets/317d612f-38c6-46ef-890b-fc4df0081b86 'Network clusters of keywords')](https://app.vosviewer.com/?json=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1EbZDFNeOB0pFYYCwtFcOSIrvx6kGutQO)
 
+## Citation
 
+If you find the repo useful, please consider cite the following paper:
+
+```
+@article{Sun29012026,
+author = {Yao Sun and Liqiu Meng and Andrés Camero and Stefan Auer and Xiao Xiang Zhu},
+title = {A deep dive into OpenStreetMap research since its inception (2008–2024): contributors, topics, and future trends},
+journal = {International Journal of Geographical Information Science},
+volume = {0},
+number = {0},
+pages = {1--55},
+year = {2026},
+publisher = {Taylor \& Francis},
+doi = {10.1080/13658816.2026.2613347},
+}
+```
